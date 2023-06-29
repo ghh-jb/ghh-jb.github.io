@@ -2,7 +2,7 @@ Package: leontap_0.23.1_iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: ghh <deamon-k@mail.ru>
-Depends: firmware (>13.0), ellekit
+Depends: firmware (>13.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/leontap_0.23.1_iphoneos-arm64.deb
 Size: 136

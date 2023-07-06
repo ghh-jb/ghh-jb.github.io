@@ -15,7 +15,7 @@ Author: ghh <deamon-k@mail.ru>
 
 Package: dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64
 Version: 1.0
-Maintainer: cypwn<xyz.cypwn.aurora>
+Maintainer: Auden Panhuyzen
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64.deb
@@ -25,5 +25,5 @@ SHA1: 6e5c4ae673aa1c435265585331c8661132d08712
 SHA256: 3cfdd420c6ce3941929e0952998cd8f33f342d9e5a385c069db9fa6bdb9d59ea
 Section: Libraries
 Description: Weather library for Jellyfish tweak. Firmware should be greater than 14.0.
-Name: Libaurora
-Author: cypwn<xyz.cypwn.aurora>
+Name: libaurora
+Author: Auden Panhuyzen

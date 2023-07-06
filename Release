@@ -1,8 +1,8 @@
 Origin: Ghh
 Label: Ghh
-Suite: nightly
-Version: 0.1
+Suite: stable
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: Ghh Cydia repository
+Description: Ghh's Sileo repository

@@ -26,4 +26,4 @@ SHA256: 3cfdd420c6ce3941929e0952998cd8f33f342d9e5a385c069db9fa6bdb9d59ea
 Section: Libraries
 Description: Weather library for Jellyfish tweak. Firmware should be greater than 14.0.
 Name: Libaurora
-Author: ghh <deamon-k@mail.ru>
+Author: cypwn<xyz.cypwn.aurora>

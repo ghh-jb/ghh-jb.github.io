@@ -12,4 +12,18 @@ Section: Tweaks
 Description: This is a Standoff2 mod menu. Firmware should be greater than 13.0
 Name: LeonTap
 Author: ghh <deamon-k@mail.ru>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64
+Version: 1.0
+Maintainer: ghh <deamon-k@mail.ru>
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm64
+Filename: ./debs/dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64.deb
+Size: 12646
+MD5sum: 5ecf2af6041880d7222c34fcadbd845d
+SHA1: 6e5c4ae673aa1c435265585331c8661132d08712
+SHA256: 3cfdd420c6ce3941929e0952998cd8f33f342d9e5a385c069db9fa6bdb9d59ea
+Section: Libraries
+Description: Weather library for Jellyfish tweak. Firmware should be greater than 14.0.
+Name: Libaurora
+Author: ghh <deamon-k@mail.ru>

@@ -15,7 +15,7 @@ Author: ghh <deamon-k@mail.ru>
 
 Package: dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64
 Version: 1.0
-Maintainer: dev.auden.ios.lib.sys.aurora
+Maintainer: cypwn<xyz.cypwn.aurora>
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64.deb

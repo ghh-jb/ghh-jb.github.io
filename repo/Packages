@@ -20,7 +20,7 @@ Maintainer: Auden Panhuyzen
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/dev.ayden.ios.lib.sys.aurora-1.0.3-iphoneos-arm64.deb
-Size: 12646
+Size: 10552
 MD5sum: 353ae6560bdf3ecc336499669f39af89
 SHA1: e1e225f99f58f3e1e1aa578d5498b67dc503001e
 SHA256: d54cae14afdf18885aea4c670c81be28603ea208cadbc35184c79248b3cf226c

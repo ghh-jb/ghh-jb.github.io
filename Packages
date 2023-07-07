@@ -4,7 +4,7 @@ Maintainer: ghh <deamon-k@mail.ru>
 Depends: firmware (>= 13.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/leontap_0.23.1_iphoneos-arm64.deb
-Size: 136
+Size: 139446
 MD5sum: 16f7115d2a2bc9877ff5b293be730edb
 SHA1: bf17ff8d45d4a297d2ba3a2fd321a3cbdde73eb6
 SHA256: 82eb6000352fb72419cb0b8981b69fd1e35e4a007d79157674f2087a5bdf0fe0

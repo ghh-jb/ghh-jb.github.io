@@ -4,10 +4,10 @@ Maintainer: ghh <deamon-k@mail.ru>
 Depends: firmware (>= 13.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/leontap_0.23.1_iphoneos-arm64.deb
-Size: 139446
-MD5sum: 16f7115d2a2bc9877ff5b293be730edb
-SHA1: bf17ff8d45d4a297d2ba3a2fd321a3cbdde73eb6
-SHA256: 82eb6000352fb72419cb0b8981b69fd1e35e4a007d79157674f2087a5bdf0fe0
+Size: 104568
+MD5sum: 8c2733d7fe2b38d07f69cc0c15ef1d6f
+SHA1: f5326765fdbffa1243c55042bc5fc96637185fde
+SHA256: d0ffd045f1a815da5cfd775a8181d1f2f3a3d9d3adf72ac8e76b586aaf5f9f23
 Section: Cheats
 Description: This is a Standoff2 mod menu. Firmware should be greater than 13.0
 Name: LeonTap

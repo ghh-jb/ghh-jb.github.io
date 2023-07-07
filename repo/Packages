@@ -15,7 +15,7 @@ Name: LeonTap
 Author: ghh <deamon-k@mail.ru>
 
 Package: dev.ayden.ios.lib.sys.aurora-1.0.3-iphoneos-arm64
-Version: 1.0
+Version: 1.0.3
 Maintainer: Auden Panhuyzen
 Installed-Size: 144
 Depends: firmware (>= 14.0)

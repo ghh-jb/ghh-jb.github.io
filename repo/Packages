@@ -26,6 +26,6 @@ MD5sum: 0c3c6031629b5ab3148440c2812aa4c3
 SHA1: 0c9743ecd4637c8251fee2ff37eb43300d077f60
 SHA256: 6bbfe84b6716f1b2b3e62995dc6e0da51d09cfe3262cf89733cedeafebd7e788
 Section: Libraries
-Description: Weather library for Jellyfish tweak. Firmware should be greater than 14.0.
+Description: Weather library for Jellyfish tweak...Firmware should be greater than 14.0.
 Name: libaurora
 Author: Auden Panhuyzen

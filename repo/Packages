@@ -21,10 +21,10 @@ Installed-Size: 144
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/dev.ayden.ios.lib.sys.aurora.deb
-Size: 10552
-MD5sum: 353ae6560bdf3ecc336499669f39af89
-SHA1: e1e225f99f58f3e1e1aa578d5498b67dc503001e
-SHA256: d54cae14afdf18885aea4c670c81be28603ea208cadbc35184c79248b3cf226c
+Size: 10548
+MD5sum: 0c3c6031629b5ab3148440c2812aa4c3
+SHA1: 0c9743ecd4637c8251fee2ff37eb43300d077f60
+SHA256: 6bbfe84b6716f1b2b3e62995dc6e0da51d09cfe3262cf89733cedeafebd7e788
 Section: Libraries
 Description: Weather library for Jellyfish tweak. Firmware should be greater than 14.0.
 Name: libaurora

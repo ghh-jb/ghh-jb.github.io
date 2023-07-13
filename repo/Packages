@@ -30,18 +30,18 @@ Description: Weather library for Jellyfish tweak. Firmware should be greater tha
 Name: libaurora
 Author: Ayden Panhuyzen
 
-Package: com.cachetes.col0rant
+Package: com.ghh.col0rant
 Name: Col0rant(PIRATED)
 Version: 1.1
 Maintainer: Ghh
 Installed-Size:
 Depends: firmware (>= 7.0) , com.spark.snowboard
 Architecture: iphoneos-arm64
-Filename: ./debs/com.cachetes.col0rant.deb
-Size: 7526800
-MD5sum: ad279a2925eb7a4c22745bade2dc65ff
-SHA1: 786586de9c1223f880e74f4052136773f79476df
-SHA256: 5682ae7f493ff7404966ad79148dce6f249b6ccd83e53e0a03ccb3b74db1a225
+Filename: ./debs/com.ghh.col0rant.deb
+Size: 7526640
+MD5sum: 57aa8c60e368373b3591a851756eb786
+SHA1: b62a103cc9c49605d502a4f52255ae64a619a114
+SHA256: 908091c27dd44c3fdff65bbcb78691e1ddab39e2291e355ac631f37d24b3e5b6
 Section: Themes
-Author: Cachetes
+Author: Ghh
 Description: The one of the best themes for snowboard engine.

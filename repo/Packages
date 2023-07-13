@@ -1,5 +1,5 @@
 Package: leontap-0.23.1-iphoneos-arm64
-Version: 0.23.1
+Version: 1.0
 Maintainer: ghh <deamon-k@mail.ru>
 Installed-Size: 496
 Depends: firmware (>= 13.0)

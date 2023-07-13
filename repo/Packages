@@ -16,7 +16,7 @@ Author: ghh <deamon-k@mail.ru>
 
 Package: dev.ayden.ios.lib.sys.aurora
 Version: 1.0
-Maintainer: Auden Panhuyzen
+Maintainer: Ayden Panhuyzen
 Installed-Size: 144
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
@@ -28,7 +28,7 @@ SHA256: 6bbfe84b6716f1b2b3e62995dc6e0da51d09cfe3262cf89733cedeafebd7e788
 Section: Libraries
 Description: Weather library for Jellyfish tweak. Firmware should be greater than 14.0.
 Name: libaurora
-Author: Auden Panhuyzen
+Author: Ayden Panhuyzen
 
 Package: com.cachetes.col0rant
 Name: Col0rant(PIRATED)

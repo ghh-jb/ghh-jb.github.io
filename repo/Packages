@@ -68,7 +68,6 @@ Package: com.ghh.cardculator
 Name: Cardculator
 Version: 2.1.1
 Maintainer: Ghh
-Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport, com.ginsu.comet, ellekit
 Architecture: iphoneos-arm64
 Filename: ./debs/com.ghh.cardculator.deb

@@ -73,9 +73,9 @@ Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport, com.ginsu.
 Architecture: iphoneos-arm64
 Filename: ./debs/com.ghh.cardculator.deb
 Size: 122392
-MD5sum: 2af88be3aa4a3d4b61a4d7035a344195
-SHA1: b49cd994852e11f01d42169ec38ef61d80e8102c
-SHA256: b05a03f8302123d41db85560e20a6f2f40f421598a42e054ceb4a7f26d26d496
+MD5sum: cd02ba0b3e3ff90d738a4fd3f1110529
+SHA1: 240f019415e0f48b14cc2762f97929c5af78439b
+SHA256: 9a17a6ce81b3f2173a225c35db36ff4e1c31d166fe77daa097ecf365003a4b7f
 Section: Tweaks
 Description: Calculator, but smaller. One of the best tweaks for ipad.
 Icon: https://ghh-jb.github.io/repo/sileoicons/Cardculator.png

@@ -45,6 +45,7 @@ SHA256: 908091c27dd44c3fdff65bbcb78691e1ddab39e2291e355ac631f37d24b3e5b6
 Section: Themes
 Author: Ghh
 Description: The one of the best themes for snowboard engine.
+Icon: https://ghh-jb.github.io/repo/sileoicons/Col0rant.png
 
 Package: com.ghh.toldyou
 Name: ToldYou
@@ -61,6 +62,7 @@ SHA256: f76ceafd4febc62dd9af96f3f6a2b82a438309972eacfc26c4e31143bdaa8f9b
 Section: Tweaks
 Author: Ghh
 Description: Notification if someone wants to crack your iphone passwd.
+Icon: https://ghh-jb.github.io/repo/sileoicons/ToldYou.png
 
 Package: com.ghh.cardculator
 Name: Cardculator

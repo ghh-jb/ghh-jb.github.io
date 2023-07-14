@@ -64,15 +64,15 @@ Section: Tweaks
 Description: Notification if someone wants to crack your iphone passwd.
 Icon: https://ghh-jb.github.io/repo/sileoicons/ToldYou.png
 
-Package: com.ghh.cardculator_2.1.1_iphoneos-arm64
+Package: com.ghh.cardculator
 Name: Cardculator
 Version: 2.1.1
 Maintainer: Ghh
 Author: Ghh
-Depends: firmware (>= 14.0), ellekit
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport, com.ginsu.comet, ellekit
 Architecture: iphoneos-arm64
-Filename: ./debs/com.ghh.cardculator_2.1.1_iphoneos-arm64.deb
-Size: 122508
+Filename: ./debs/com.ghh.cardculator.deb
+Size: 122420
 MD5sum: 2af88be3aa4a3d4b61a4d7035a344195
 SHA1: b49cd994852e11f01d42169ec38ef61d80e8102c
 SHA256: b05a03f8302123d41db85560e20a6f2f40f421598a42e054ceb4a7f26d26d496

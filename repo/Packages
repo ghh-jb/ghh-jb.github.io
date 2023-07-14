@@ -2,7 +2,7 @@ Package: leontap-0.23.1-iphoneos-arm64
 Version: 1.0
 Maintainer: ghh <deamon-k@mail.ru>
 Installed-Size: 496
-Depends: firmware (>= 13.0)
+Depends: firmware (>= 13.0), ellekit
 Architecture: iphoneos-arm64
 Filename: ./debs/leontap-0.23.1-iphoneos-arm64.deb
 Size: 104568
@@ -18,7 +18,7 @@ Package: dev.ayden.ios.lib.sys.aurora
 Version: 1.0
 Maintainer: Ayden Panhuyzen
 Installed-Size: 144
-Depends: firmware (>= 14.0)
+Depends: firmware (>= 14.0), ellekit
 Architecture: iphoneos-arm64
 Filename: ./debs/dev.ayden.ios.lib.sys.aurora.deb
 Size: 10548
@@ -35,7 +35,7 @@ Name: Col0rant(PIRATED)
 Version: 1.1
 Maintainer: Ghh
 Installed-Size:
-Depends: firmware (>= 7.0) , com.spark.snowboard
+Depends: firmware (>= 7.0), com.spark.snowboard, ellekit
 Architecture: iphoneos-arm64
 Filename: ./debs/com.ghh.col0rant.deb
 Size: 7526640
@@ -51,7 +51,7 @@ Name: ToldYou
 Version: 1.0
 Maintainer: Ghh
 Installed-Size: 424
-Depends: firmware (>= 12.0) , preferenceloader
+Depends: firmware (>= 12.0), preferenceloader, ellekit 
 Architecture: iphoneos-arm64
 Filename: ./debs/com.ghh.toldyou.deb
 Size: 43332

@@ -96,3 +96,20 @@ Description: Customize your app switcher with a variety of options, including th
 Author: SOPPPra
 Icon: https://ghh-jb.github.io/repo/sileoicons/Killapps.png
 Name: Killapps
+
+Package: com.ghh.gravitation
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 1264
+Depends: ellekit
+Filename: ./debs/com.ghh.gravitation.deb
+Size: 98356
+MD5sum: eef55ad9046bc8ddc2239b71af9c4b42
+SHA1: c4ab15cfe41950a03d05b444ca7e13d475425e85
+SHA256: 004bbc87f18fdd1ccbd0938804adf2b8b5987f913f185c838292898ab5070c57
+Section: Tweaks
+Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
+Author: Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/Пravity.png
+Name: Gravitation

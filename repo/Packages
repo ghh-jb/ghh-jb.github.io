@@ -79,3 +79,20 @@ SHA256: 9a17a6ce81b3f2173a225c35db36ff4e1c31d166fe77daa097ecf365003a4b7f
 Section: Tweaks
 Description: Calculator, but smaller. One of the best tweaks for ipad.
 Icon: https://ghh-jb.github.io/repo/sileoicons/Cardculator.png
+
+Package: com.ghh.killapps
+Version: 1.0
+Maintainer: SOPPPra
+Installed-Size: 432
+Depends: ellekit, preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm64
+Filename: ./debs/com.ghh.killapps.deb
+Size: 149128
+MD5sum: e03438fa344a5f030c28c47cebccdb56
+SHA1: f95eb03073432b8ae2a47e64219a4060a09361f1
+SHA256: 0500669caf3fd31e75604b53b8dc380d92d21ce57ae36a84ae06706086080036
+Section: Tweaks
+Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
+Author: SOPPPra
+Icon: https://ghh-jb.github.io/repo/sileoicons/Killapps.png
+Name: Killapps

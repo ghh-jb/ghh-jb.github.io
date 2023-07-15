@@ -113,3 +113,18 @@ Description: Shake your phone to drop your icons! Analogue for gravity (by Julio
 Author: Ghh
 Icon: https://ghh-jb.github.io/repo/sileoicons/Gravity.png
 Name: Gravitation
+
+Package: com.ghh.ipa2deb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ghh
+Depends: dpkg
+Filename: ./debs/com.ghh.ipa2deb.deb
+Size: 3360
+MD5sum: 58ff8a9d2defdea8b4b0f654d34903ba
+SHA1: c27cdfe45725e2fdc3a9d77fac18bc5b44e0a036
+SHA256: 7dbc36b78d90869b0e8d7defd753ef3e5e9fab77100104bfd77eb20903de7a11
+Section: Development
+Description: Convert IPA to DEB in terminal.app
+Author: Ghh
+Name: ipa2deb

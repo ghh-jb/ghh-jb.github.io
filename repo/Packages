@@ -144,3 +144,20 @@ Description: Peek Dark for iOS. Theme with interesting icons.
 Author: Ghh
 Name: Peek Dark
 Icon: https://ghh-jb.github.io/repo/sileoicons/PeekDark.png
+
+Package: me.ghh.dleasy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 3172
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ghh.dleasy.deb
+Size: 792292
+MD5sum: 9d39b4b86a753d2f1727e9b6fa2102f9
+SHA1: c5b15cdf4b4df230accf338f8f0bce36ce869ef1
+SHA256: ffa0ab9de55b1be1a61cdf25a286625ae9ba371115d3f23b182fd3e3171e335a
+Section: Tweaks
+Description: Download/Share images & videos from social apps easily! A lot of platforms are supported.
+Author: Ghh
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+Name: DLEasy

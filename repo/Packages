@@ -151,7 +151,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ghh
 Installed-Size: 603
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0),xyz.cypwn.anthocrack
-Filename: ./com.ghh.bluefinder.deb
+Filename: ./debs/com.ghh.bluefinder.deb
 Size: 221176
 MD5sum: eaa7a629fcc41a7f7a28cb27f834c0a4
 SHA1: 26803fc35e0647563922ddf02abde290d4fc33c4
@@ -159,5 +159,5 @@ SHA256: 626968ca9dabcadfed5c8ff429e88100bd5683d38cab36295960b1c853104bee
 Section: Tweaks
 Description: Find your iPhone using your Bluetooth devices! One or more times connect bluetooth device to the iDevice to phone ring.
 Author: Ghh
-Icon: https://img.chariz.cloud/icon/bluefinder/icon@3x
+Icon: https://ghh-jb.github.io/repo/sileoicons/BlueFinder.png
 Name: BlueFinder

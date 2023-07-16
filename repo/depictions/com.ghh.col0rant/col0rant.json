@@ -1,0 +1,25 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Compatible with iOS 7.0 +",
+                    "useMargins": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p>Beautiful eye-catching theme for snowboard running iOS 7.0</p>",
+                    "useRawFormat": true,
+                    "useSpacing": true
+                }
+            ],
+            "xPadding": 10
+        }
+    ]
+}
+

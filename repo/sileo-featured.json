@@ -1,0 +1,12 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "title": "YouPiP",
+            "package": "com.ghh.toldyou",
+            "url": "https://ghh-jb.github.io/repo/featured/ToldYou.png"
+        }
+    ]
+}

@@ -47,7 +47,7 @@ Section: Themes
 Description: The one of the best themes for snowboard engine.
 Icon: https://ghh-jb.github.io/repo/sileoicons/Col0rant.png
 Depiction: https://ghh-jb.github.io/repo/depictions/?p=com.ghh.col0rant
-Sileodepiction: https://ghh-jb.github.io/repo/depictions/col0rant.json
+Sileodepiction: https://ghh-jb.github.io/repo/depictions/com.ghh.col0rant/col0rant.json
 
 Package: com.ghh.toldyou
 Name: ToldYou

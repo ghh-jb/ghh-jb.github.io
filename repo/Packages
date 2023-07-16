@@ -128,3 +128,19 @@ Section: Development
 Description: Convert IPA to DEB in terminal.app
 Author: Ghh
 Name: ipa2deb
+
+Package: com.ghh.peekdark
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.spark.snowboard
+Filename: ./debs/com.ghh.peekdark.deb
+Size: 5968992
+MD5sum: 9a435fb4f94bb08dbe1b6573bcd2aef1
+SHA1: a992f090f5d6551efaa44b00097018eb86cb6c2d
+SHA256: 3266173ffc8239867126427b9809b9ec1d1ecb83a753250bac41904a354e2028
+Section: Themes
+Description: Peek Dark for iOS. Theme with interesting icons.
+Author: Ghh
+Name: Peek Dark
+Icon: https://ghh-jb.github.io/repo/sileoicons/Peek Dark.png

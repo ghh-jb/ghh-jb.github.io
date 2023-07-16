@@ -4,6 +4,11 @@
     "itemCornerRadius": 10,
     "banners": [
         {
+            "title": "Col0rant",
+            "package": "com.ghh.col0rant",
+            "url": "https://ghh-jb.github.io/repo/featured/Col0rant.png"
+        },
+        {
             "title": "ToldYou",
             "package": "com.ghh.toldyou",
             "url": "https://ghh-jb.github.io/repo/featured/ToldYou.png"

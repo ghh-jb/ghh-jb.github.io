@@ -4,7 +4,7 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "title": "YouPiP",
+            "title": "ToldYou",
             "package": "com.ghh.toldyou",
             "url": "https://ghh-jb.github.io/repo/featured/ToldYou.png"
         }

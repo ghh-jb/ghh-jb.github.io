@@ -1,21 +1,24 @@
 <package>
-    <id>com.ghh.col0rant</id>
-    <name>Old Package</name>
-    <version>1.1</version>
-    <compatibility>
-
-        <firmware>
-            <miniOS>7.0</miniOS>
-            <maxiOS>16.0</maxiOS>
-            <otherVersions>Unsupported</otherVersions>
-            <!--
-            for otherVersions, you can put either unsupported or unconfirmed
-            -->
-        </firmware>
-    </compatibility>
-    <screenshots></screenshots>
-    <changelog>
-        <change>nitial pirated Release. Added support for Dopamine/Palera1n rootless/Fugu15. Not tested on Palera1n</change>
-    </changelog>
-    <links></links>
+	<id>com.ghh.col0rant</id>
+	<name>Col0rant</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>16.0</maxiOS>
+			<otherVersions>Unsupported</otherVersions>
+			<!-- for otherVersions, you can put either unsupported or unconfirmed -->
+		</firmware>
+	</compatibility>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initially pirated Release. Added support for Dopamine/Palera1n rootless/Fugu15. Not tested on Palera1n.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Home</name>
+			<url>https://ghh-jb.github.io/repo/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</links>
 </package>

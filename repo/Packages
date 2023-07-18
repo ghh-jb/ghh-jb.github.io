@@ -163,3 +163,42 @@ Description: Find your iPhone using your Bluetooth devices! One or more times co
 Author: Ghh
 Icon: https://ghh-jb.github.io/repo/sileoicons/BlueFinder.png
 Name: BlueFinder
+
+Package: cydia-lproj
+Version: 1.1.32~b1
+Architecture: iphoneos-arm64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 712
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Filename: ./debs/cydia-lproj_1.1.32~b1_iphoneos-arm64.deb
+Size: 82598
+MD5sum: d3541c7fbe41a7c4d1116393a5fd79ba
+SHA1: 1928e543599dced7b69837c4514dd1036aa974a5
+SHA256: 336d2e9189c8a9db8f1cd72433aab758884b43f86debd60679464e565f0000b1
+Section: Packaging
+Priority: required
+Description: languages and translations for Cydia
+Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Name: Cydia Translations (rootless untested)
+
+Package: org.thebigboss.repo.icons
+Version: 1.0
+Architecture: all
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 48
+Replaces: cydia, bigboss
+Filename: ./debs/org.thebigboss.repo.icons_1.0_all.deb
+Size: 11474
+MD5sum: e2d4a40ca3d64a90431ef5187ad694fa
+SHA1: 2732e9fcef166547439fe6a0f14554b26481d6a3
+SHA256: 26410c751ead232b3faf74ac695f8172c3eec9a8202025b5d1b6f0cab05d8dcf
+Section: Repositories
+Priority: optional
+Multi-Arch: foreign
+Description: locally cached package icons from BigBoss
+Name: BigBoss Icon Set (rootless untested)

@@ -207,7 +207,7 @@ Package: com.ghh.appinst
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Ghh
-Filename: ./debs/com.ghh.appinst_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.ghh.appinst.deb
 Size: 101946
 MD5sum: bb2a5d7c949481781a943b1a54ad0b5b
 SHA1: 14298e91bfa7d757cd52ebabbfc291c38f56b53e

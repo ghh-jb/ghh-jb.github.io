@@ -202,3 +202,32 @@ Priority: optional
 Multi-Arch: foreign
 Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set (rootless untested)
+
+Package: com.ghh.appinst
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Filename: ./debs/com.ghh.appinst_1.0_iphoneos-arm64.deb
+Size: 101946
+MD5sum: bb2a5d7c949481781a943b1a54ad0b5b
+SHA1: 14298e91bfa7d757cd52ebabbfc291c38f56b53e
+SHA256: eca829ae3be9c1f99d373e2446a835c5b82ee4a11acc27a72919678d64d9257c
+Section: Development
+Description: Appinst that used in IpaRanger. Extracted by Ghh.
+Author: Ghh
+Name: Appinst(app installer)
+
+Package: com.icraze.screentimebegone
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: ellekit
+Filename: ./debs/com.icraze.screentimebegone.deb
+Size: 4120
+MD5sum: c9af798250c31f9ccafabeb841162023
+SHA1: 50903a075ec1b33f6996c0b9a97fe3377a928864
+SHA256: 2f53aea4cba5db6444c6957710cd87675eb8b07eef6e5d149654694923577a20
+Section: Tweaks
+Description: Bypass screen time app limits. Very useful. Tested on Dopamine. Should work on rootless Palera1n
+Author: iCraze
+Name: Screentimebegone

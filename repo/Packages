@@ -232,5 +232,5 @@ SHA256: c612163b586cfeedd004c434608ec40744f8e401000da47d47877a81376d42ac
 Section: Tweaks
 Description: Easy manipulate your ls music wiget.
 Author: p2kdev
-Icon: file:///Library/Application Support/Arkita/icon.png
 Name: Arkita(pirated)
+Icon: https://ghh-jb.github.io/repo/sileoicons/Arkita.jpg

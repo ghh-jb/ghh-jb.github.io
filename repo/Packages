@@ -224,7 +224,7 @@ Architecture: iphoneos-arm64
 Installed-Size: 528
 Depends: ellekit, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
-Filename: ./com.ghh.arkita_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.ghh.arkita.deb
 Size: 56704
 MD5sum: cc61f0165ff8508621419aec1b48c7c3
 SHA1: c3016da7b630cf83c3eefeb6cd27389c764fa4ad

@@ -284,7 +284,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ghh
 Depends: firmware (>= 9.0)
 Conflicts: com.matchstic.reprovision
-Filename: ./debs/jp.soh.reprovision1.deb
+Filename: ./debs/jp.soh.reprovision.deb
 Size: 15597468
 MD5sum: 5bc16c327b17a197326d1e955b804b69
 SHA1: 2e1e969f47ae7b8b405055bb96cdf3d8854e52d4
@@ -292,4 +292,4 @@ SHA256: a2bd4e5e74531653f3c4bed868bc3e7268adad3e781dc215164c2ef4adecc906
 Section: Applications
 Description: Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app!
 Author: Soh Satoh, Ghh
-Name: ReProvision Reborn
+Name: ReProvision reborn

@@ -292,4 +292,4 @@ SHA256: a2bd4e5e74531653f3c4bed868bc3e7268adad3e781dc215164c2ef4adecc906
 Section: Applications
 Description: Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app!
 Author: Soh Satoh, Ghh
-Name: ReProvision reborn
+Name: ReProvision Reborn

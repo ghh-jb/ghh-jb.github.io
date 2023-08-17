@@ -234,3 +234,62 @@ Description: Easy manipulate your ls music wiget.
 Author: p2kdev
 Name: Arkita(pirated)
 Icon: https://ghh-jb.github.io/repo/sileoicons/Arkita.jpg
+
+Package: Ra1npoc
+Version: 2.1.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>= 9.0)
+Filename: ./debs/Ra1npoc.deb
+Size: 203408
+MD5sum: d8df3ebc2096141cedf8b2a08bee79ba
+SHA1: e1622785833be682aefad2bdfab29ec886b76632
+SHA256: 1bf9dc31edf1028b0dcde62bf0fa6cffd560c8124000f2e747b68339e921e56a
+Section: System
+Description: checkra1n clone v2.1.4 for iphoneos by interception.ATTENTION: USE IT ON YOUR OWN RISK. You need to have terminal!
+Author: Ghh, dora2ios
+Name: Ra1npoc
+
+Package: Ra1npoc15
+Version: 3.0b2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>= 9.0), cy+cpu.arm64
+Filename: ./debs/Ra1npoc15.deb
+Size: 3334420
+MD5sum: 29061d71354df406190ceff57e8fbc5c
+SHA1: 479516fb2b0a30b123dd7a9fa6c3ab5e2da8a9d8
+SHA256: 59b88436777b03b3b2e6c12ca6e714f763cc56ff27f4818c922af34fde20bced
+Description: checkrain clone v3.0 for iphoneos. Bakera1n added.
+Author: dora2ios, Ghh
+Name: Ra1npoc15
+
+Package: com.ghh.JBStickers
+Version: 1.1-rootless
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Filename: ./debs/com.ghh.JBStickers.deb
+Size: 2687672
+MD5sum: 3f78c3d191695d46c3c8ec2bc718d76c
+SHA1: e89990dc259a9c2e3932e8c1f8434637c33c94fc
+SHA256: 0514da32535bc28082131d41f60444ea7ed9d41ec757e944e57d11058f088c0b
+Section: Stickers
+Description: Just a jailbreak sticker pack for iMessages. (Memes included). Tested on rootless Dopamine ios 15.2!
+Author: Ghh
+Name: Jailbreak Sticker Pack
+
+Package: jp.soh.reprovision
+Version: 0.8.5.1~rootless
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filename: ./debs/jp.soh.reprovision1.deb
+Size: 15597468
+MD5sum: 5bc16c327b17a197326d1e955b804b69
+SHA1: 2e1e969f47ae7b8b405055bb96cdf3d8854e52d4
+SHA256: a2bd4e5e74531653f3c4bed868bc3e7268adad3e781dc215164c2ef4adecc906
+Section: Applications
+Description: Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app!
+Author: Soh Satoh, Ghh
+Name: ReProvision Reborn

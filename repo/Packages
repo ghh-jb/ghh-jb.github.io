@@ -293,3 +293,21 @@ Section: Applications
 Description: Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app!
 Author: Soh Satoh, Ghh
 Name: ReProvision Reborn
+
+Package: com.ghh.iconrenamer
+Version: 1.2.7
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 200
+Depends: firmware (>= 4.0), preferenceloader (>= 2.2.2), ellekit
+Replaces: netskao.iconrenamerx
+Filename: ./debs/com.ghh.iconrenamer.deb
+Size: 41724
+MD5sum: 3d4c2ce9cc11f25b09a40d6298aa6b95
+SHA1: ca481d61babde3c965b30e9da2d892db091ddd47
+SHA256: e3836507771f8f2b0d936dc8ebe08b2c691f1cf1dd3119319a42f6485ed0665c
+Section: Tweaks
+Description: Rename icons from your SpringBoard
+Author: Ryan Petrich
+Icon: /var/mobile/Documents/ApplicationSupport/Icon Renamer.jpg
+Name: Icon Renamer

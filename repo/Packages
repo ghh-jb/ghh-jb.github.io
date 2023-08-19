@@ -385,13 +385,31 @@ Architecture: iphoneos-arm64
 Maintainer: Ghh
 Installed-Size: 1264
 Depends: ellekit
-Filename: ./debs/com.ghh.gravitation11.deb
-Size: 152612
-MD5sum: 6fc5ceb80c702866aa59a361c987fbbd
-SHA1: bf2f165712dff4c1d1c2cfeecf6b6a84580d147d
-SHA256: 889f2646a2a8cf7015e6c0531e856fc30015bde88de601869405d1da338f5dc2
+Filename: ./debs/gravitation11.deb
+Size: 124752
+MD5sum: fb0c6b20e20a0544470e516f50e5a003
+SHA1: 42a3ad248b3b1991bcdbb9ce0f34913dec6f0e55
+SHA256: 375e3a3e48685773b44c7742de243cf161e29295b8ab7b8e17bd39f0e8874e31
 Section: Tweaks
 Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
 Author: Ghh
 Name: Gravitation
-Icon: https://ghh-jb.github.io/repo/sileoicons/Gravity.png
+
+Package: com.ghh.iconrenamer
+Version: 1.2.8
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 200
+Depends: firmware (>= 4.0), preferenceloader (>= 2.2.2), ellekit
+Replaces: netskao.iconrenamerx
+Filename: ./debs/iconren.deb
+Size: 18720
+MD5sum: e65956902f1652817c6e540b8813ff8b
+SHA1: 8859b740b372774381db6a2b687b71370adf2bdf
+SHA256: a6c826412e6cea46bf4c33d9ed8f4eaf0df3d4ccea9d5157e400dd32f4ac004f
+Section: Tweaks
+Description: Rename icons from your SpringBoard
+Author: Ryan Petrich
+Name: Icon Renamer
+
+

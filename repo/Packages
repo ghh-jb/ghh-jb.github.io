@@ -385,7 +385,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ghh
 Installed-Size: 1264
 Depends: ellekit
-Filename: ./debs/com.ghh.gravitation.deb
+Filename: ./debs/com.ghh.gravitation11.deb
 Size: 152612
 MD5sum: 6fc5ceb80c702866aa59a361c987fbbd
 SHA1: bf2f165712dff4c1d1c2cfeecf6b6a84580d147d

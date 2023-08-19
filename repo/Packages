@@ -379,3 +379,18 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to 
 Author: Ayden Panhuyzen, ghh
 Name: Ultrasound
 
+Package: com.ghh.gravitation
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 1264
+Depends: ellekit
+Filename: ./debs/com.ghh.gravitation.deb
+Size: 152612
+MD5sum: 6fc5ceb80c702866aa59a361c987fbbd
+SHA1: bf2f165712dff4c1d1c2cfeecf6b6a84580d147d
+SHA256: 889f2646a2a8cf7015e6c0531e856fc30015bde88de601869405d1da338f5dc2
+Section: Tweaks
+Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
+Author: Ghh
+Name: Gravitation

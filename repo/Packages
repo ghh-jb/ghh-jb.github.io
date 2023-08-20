@@ -379,23 +379,24 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to 
 Author: Ayden Panhuyzen, ghh
 Name: Ultrasound
 
-Package: com.ghh.gravitation11
+Package: com.ghh.gravitation
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Ghh
 Installed-Size: 1264
 Depends: ellekit
 Filename: ./debs/com.ghh.gravitation11.deb
-Size: 124860
-MD5sum: 3c74b5e32f5952db453978cf185d3557
-SHA1: 8a1bae2c7c33d58b6b38d61e4a008307a2b502fe
-SHA256: c64abb5428df43a9bc88e6c2f840779ca74db17e3351dd8cdee57639e6801182
+Size: 124856
+MD5sum: e52423e163f99600572ab6715ed8047d
+SHA1: 026597e99b3c3ed04312a29a9da8f47b3859b3a4
+SHA256: 7422f0cda6034e48a5e9b2807a5013702b7f356c764191d99eace5624529bbae
 Section: Tweaks
 Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
 Author: Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/Gravity.png
 Name: Gravitation
 
-Package: com.ghh.iconrenamer128
+Package: com.ghh.iconrenamer
 Version: 1.2.8
 Architecture: iphoneos-arm64
 Maintainer: Ghh
@@ -403,12 +404,12 @@ Installed-Size: 200
 Depends: firmware (>= 4.0), preferenceloader (>= 2.2.2), ellekit
 Replaces: netskao.iconrenamerx
 Filename: ./debs/com.ghh.iconrenamer128.deb
-Size: 18720
-MD5sum: 870f2fed22a658f10b1cf402c5ebe22a
-SHA1: aca597dd43b9b41d3143b3d625df945efcd3f5ea
-SHA256: 310063a940b9bcda9f9a17b524d3ee89e0fabc9060f1929afcc540cd7b042f56
+Size: 18716
+MD5sum: b4d12f9269eb2af794f3c8ce34f3b149
+SHA1: 6efbecf5c5bce41608b824642290d9d17663922b
+SHA256: bc1c1d124f917414cd9746ef9acb4f45d49b877b76697f391f1777684088c18f
 Section: Tweaks
-Icon: https://ghh-jb.github.io/repo/sileoicons/IconRenamer.png
 Description: Rename icons from your SpringBoard
 Author: Ryan Petrich
+Icon: https://ghh-jb.github.io/repo/sileoicons/IconRenamer.png
 Name: Icon Renamer

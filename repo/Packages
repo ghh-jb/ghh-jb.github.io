@@ -222,6 +222,7 @@ Package: com.ghh.arkita
 Version: 1.0
 Architecture: iphoneos-arm64
 Installed-Size: 528
+Maintainer: Ghh
 Depends: ellekit, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
 Filename: ./debs/com.ghh.arkita.deb
@@ -248,6 +249,7 @@ SHA256: 1bf9dc31edf1028b0dcde62bf0fa6cffd560c8124000f2e747b68339e921e56a
 Section: System
 Description: checkra1n clone v2.1.4 for iphoneos by interception.ATTENTION: USE IT ON YOUR OWN RISK. You need to have terminal!
 Author: Ghh, dora2ios
+Icon: https://ghh-jb.github.io/repo/sileoicons/Ra1npoc.jpg
 Name: Ra1npoc
 
 Package: Ra1npoc15
@@ -262,6 +264,7 @@ SHA1: 479516fb2b0a30b123dd7a9fa6c3ab5e2da8a9d8
 SHA256: 59b88436777b03b3b2e6c12ca6e714f763cc56ff27f4818c922af34fde20bced
 Description: checkrain clone v3.0 for iphoneos. Bakera1n added.
 Author: dora2ios, Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/Ra1npoc15.jpg
 Name: Ra1npoc15
 
 Package: com.ghh.JBStickers
@@ -276,6 +279,7 @@ SHA256: 0514da32535bc28082131d41f60444ea7ed9d41ec757e944e57d11058f088c0b
 Section: Stickers
 Description: Just a jailbreak sticker pack for iMessages. (Memes included). Tested on rootless Dopamine ios 15.2!
 Author: Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/JBStickers.jpg
 Name: Jailbreak Sticker Pack
 
 Package: jp.soh.reprovision
@@ -292,6 +296,7 @@ SHA256: a2bd4e5e74531653f3c4bed868bc3e7268adad3e781dc215164c2ef4adecc906
 Section: Applications
 Description: Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app!
 Author: Soh Satoh, Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/ReprovisionReborn.jpg
 Name: ReProvision Reborn
 
 Package: com.ghh.iconrenamer
@@ -327,6 +332,7 @@ SHA256: 602c1db9522a8d61643dd4d43315507408ef3db4f9eb74fb548f1ad891bfe9ee
 Section: Tweaks
 Description: Battery indicator, but cute. Be friends with your battery indicator.
 Author: Traurige, Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/BatteryBuddy.jpg
 Name: BatteryBuddy
 
 Package: com.ghh.no2theft
@@ -343,6 +349,7 @@ SHA256: 439a0dacea0178d4b76516ff3cf784c7a92ce44cee79a1a2c5f2f850089dab6f
 Section: Tweaks
 Description: The most complete tweak against pranksters, annoying nosy people and thieves. Use it to prank other people.
 Author: elias, Ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/IconRenamer.png
 Name: No2Theft-Pirated
 
 Package: com.ghh.sonus13
@@ -360,6 +367,7 @@ SHA256: 536578ebfe32ff4fe269ed9b327d9bacfc58824679a58274f80bbb1004aab703
 Section: Tweaks
 Description: The better and highly customizable volume hud. For iOS 13 & up to ios 15. Tested on ios 15.2 Dopamine, similar to Ultrasound by Ayden Panhuyzen.
 Author: ubik <cydia@ubikstyl.es>
+Icon: https://ghh-jb.github.io/repo/sileoicons/Sonus13.jpg
 Name: Sonus13
 
 Package: com.ghh.ultrasound
@@ -377,6 +385,7 @@ SHA256: b87792d3372fa3ba98755111dd8ad316e7bab3438d3ed2c19d68e30305b9c660
 Section: Tweaks
 Description: A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to Sonus13. This is what i use:)
 Author: Ayden Panhuyzen, ghh
+Icon: https://ghh-jb.github.io/repo/sileoicons/Ultrasound.jpg
 Name: Ultrasound
 
 Package: com.ghh.gravitation

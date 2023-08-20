@@ -309,7 +309,7 @@ SHA256: e3836507771f8f2b0d936dc8ebe08b2c691f1cf1dd3119319a42f6485ed0665c
 Section: Tweaks
 Description: Rename icons from your SpringBoard
 Author: Ryan Petrich
-Icon: /var/mobile/Documents/ApplicationSupport/Icon Renamer.jpg
+Icon: https://ghh-jb.github.io/repo/sileoicons/IconRenamer.png
 Name: Icon Renamer
 
 Package: com.ghh.batterybuddy
@@ -379,37 +379,36 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to 
 Author: Ayden Panhuyzen, ghh
 Name: Ultrasound
 
-Package: com.ghh.gravitation
+Package: com.ghh.gravitation11
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Ghh
 Installed-Size: 1264
 Depends: ellekit
-Filename: ./debs/gravitation11.deb
-Size: 124752
-MD5sum: fb0c6b20e20a0544470e516f50e5a003
-SHA1: 42a3ad248b3b1991bcdbb9ce0f34913dec6f0e55
-SHA256: 375e3a3e48685773b44c7742de243cf161e29295b8ab7b8e17bd39f0e8874e31
+Filename: ./debs/com.ghh.gravitation11.deb
+Size: 124860
+MD5sum: 3c74b5e32f5952db453978cf185d3557
+SHA1: 8a1bae2c7c33d58b6b38d61e4a008307a2b502fe
+SHA256: c64abb5428df43a9bc88e6c2f840779ca74db17e3351dd8cdee57639e6801182
 Section: Tweaks
 Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
 Author: Ghh
 Name: Gravitation
 
-Package: com.ghh.iconrenamer
+Package: com.ghh.iconrenamer128
 Version: 1.2.8
 Architecture: iphoneos-arm64
 Maintainer: Ghh
 Installed-Size: 200
 Depends: firmware (>= 4.0), preferenceloader (>= 2.2.2), ellekit
 Replaces: netskao.iconrenamerx
-Filename: ./debs/iconren.deb
+Filename: ./debs/com.ghh.iconrenamer128.deb
 Size: 18720
-MD5sum: e65956902f1652817c6e540b8813ff8b
-SHA1: 8859b740b372774381db6a2b687b71370adf2bdf
-SHA256: a6c826412e6cea46bf4c33d9ed8f4eaf0df3d4ccea9d5157e400dd32f4ac004f
+MD5sum: 870f2fed22a658f10b1cf402c5ebe22a
+SHA1: aca597dd43b9b41d3143b3d625df945efcd3f5ea
+SHA256: 310063a940b9bcda9f9a17b524d3ee89e0fabc9060f1929afcc540cd7b042f56
 Section: Tweaks
+Icon: https://ghh-jb.github.io/repo/sileoicons/IconRenamer.png
 Description: Rename icons from your SpringBoard
 Author: Ryan Petrich
 Name: Icon Renamer
-
-

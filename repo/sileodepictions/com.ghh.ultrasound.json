@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://ghh-jb.github.io/repo/features/UltraSound.jpg",
-    "minVersion": "1.2.15",
+    "minVersion": "0.4",
     "tabs": [
         {
             "class": "DepictionStackView",

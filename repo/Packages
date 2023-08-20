@@ -386,6 +386,7 @@ Section: Tweaks
 Description: A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to Sonus13. This is what i use:)
 Author: Ayden Panhuyzen, ghh
 Icon: https://ghh-jb.github.io/repo/sileoicons/UltraSound.jpg
+Sileodepiction: https://ghh-jb.github.io/repo/sileodepictions/UltraSound.json
 Name: Ultrasound
 
 Package: com.ghh.gravitation

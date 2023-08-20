@@ -1,0 +1,51 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://ghh-jb.github.io/repo/features/UltraSound.jpg",
+    "minVersion": "1.2.15",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Compatible with iOS 12.0 +",
+                    "useMargins": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Thanks to Dynastyc.co & Ayden Panhuyzen.",
+                    "useMargins": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p><b>A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to Sonus13. This is what i use:)</b></p>",
+                    "useRawFormat": true,
+                    "useSpacing": true
+                }
+            ],
+            "xPadding": 10
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.2.15"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- This is initial release on my repo reposytory. Rootless version."
+                }
+            ]
+        }
+    ],
+    "tintColor": "isDefault"
+}

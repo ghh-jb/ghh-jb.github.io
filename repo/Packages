@@ -385,7 +385,7 @@ SHA256: b87792d3372fa3ba98755111dd8ad316e7bab3438d3ed2c19d68e30305b9c660
 Section: Tweaks
 Description: A brand-new, unobtrusive, OLED-friendly volume HUD. Alternative to Sonus13. This is what i use:)
 Author: Ayden Panhuyzen, ghh
-Icon: https://ghh-jb.github.io/repo/sileoicons/Ultrasound.jpg
+Icon: https://ghh-jb.github.io/repo/sileoicons/UltraSound.jpg
 Name: Ultrasound
 
 Package: com.ghh.gravitation

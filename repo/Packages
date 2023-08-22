@@ -297,6 +297,7 @@ Section: Applications
 Description: Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app!
 Author: Soh Satoh, Ghh
 Icon: https://ghh-jb.github.io/repo/sileoicons/ReprovisionReborn.jpg
+Sileodepiction: https://ghh-jb.github.io/repo/sileodepictions/jp.soh.reprovision~rootless.json
 Name: ReProvision Reborn
 
 Package: com.ghh.iconrenamer

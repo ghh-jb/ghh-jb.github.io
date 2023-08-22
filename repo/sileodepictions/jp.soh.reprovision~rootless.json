@@ -1,0 +1,51 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://ghh-jb.github.io/repo/featured/Reprovision.jpg",
+    "minVersion": "1.0",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Compatible with iOS 9.0 +",
+                    "useMargins": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Made by Soh Satoh",
+                    "useMargins": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p><b>Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app and resign it after 7 days! Automatic background resigning is not working. Get official version on <a href=\"https://repo.satoh.dev\">SohSatoh repo.</a></b></p>",
+                    "useRawFormat": true,
+                    "useSpacing": true
+                }
+            ], 
+            "xPadding": 10
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 0.8.5.1~rootless"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added support for rootless. Tested on iOS 15.2, Dopamine, iPhone SE 2020. Get rootfull version on 'https://repo.satoh.dev'."
+                }
+            ]
+        }
+    ],
+    "tintColor": "Pink"
+}

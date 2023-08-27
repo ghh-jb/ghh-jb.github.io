@@ -424,3 +424,111 @@ Description: Rename icons from your SpringBoard
 Author: Ryan Petrich
 Icon: https://ghh-jb.github.io/repo/sileoicons/IconRenamer.png
 Name: Icon Renamer
+
+Package: com.ginsu.4ders
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.4ders.deb
+Size: 9200
+MD5sum: 58663f053ac6bb5193a86393cfed978b
+SHA1: 776f713a693a028a909a6d8ef07d704e58528479
+SHA256: 6c3d2dd98af3fbb861f3f1ace3913bd7873c3853945669f29fa8284bad9aeec3
+Section: Tweaks
+Description: 4x4 Folders!
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.4ders
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.4ders/icon.png
+Name: 4Ders
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.4ders.json
+
+Package: com.nahtedetihw.macpass
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common
+Filename: ./debs/com.nahtedetihw.macpass.deb
+Size: 192000
+MD5sum: 6b46b9215498def6aa41b1bc2bd8a866
+SHA1: 84e615e4eca1b4f42f035a6a12944628ecb57423
+SHA256: 16c7792c7baba8b2ffc95e0b6c8607a90c9e84482a416f2bc0e04d5e17929f39
+Section: Tweaks
+Homepage: https://nahtedetihw.github.io
+Description: MacOS login screen for iOS!
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.macpass.html
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
+Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.macpass.json
+Name: MacPass
+Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.macpass.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.2
+
+Package: org.coolstar.taurine
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: Ghh
+Depends: firmware (>=14.0)
+Filename: ./debs/org.coolstar.taurine.deb
+Size: 29967628
+MD5sum: c0ec8a36329e9018d7e9ce9179af6fee
+SHA1: f8560c034a26702fcf681c562ee30715bbeed6f8
+SHA256: a182fc7f6130ea8ba0820adedf7df2a9ab98ce51ee497236ce02b7a50ffa8e80
+Section: Applications
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Author: coolstar
+Name: Taurine
+Tags: compatible_min::ios14.0
+
+Package: org.coolstar.taurine.rootless
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>=14.0)
+Filename: ./debs/org.coolstar.taurine.rootless.deb
+Size: 29948696
+MD5sum: 4387a34cbebef324ea7bbb367be2542d
+SHA1: 9d347b1cdbd85a11b8b02da596210eb524eb31c1
+SHA256: 1e7b3d81021700dc177f284406f4dc2ffd41eb8f69735ab2e6d9d3f44e985e1e
+Section: Applications
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire. Attention!!! THIS VERSION IS ONLY TO SEE INTERFACE OF JAILBROKEN Taurine!!!
+Author: coolstar
+Name: Taurine
+Tags: compatible_min::ios14.0
+
+Package: science.xnu.undecimus
+Version: 8.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>=14.0), firmware (<<15.2.1)
+Filename: ./debs/science.xnu.undecimus.deb
+Size: 47012888
+MD5sum: c0c4da327272add2e166496c6199f353
+SHA1: 7700a61b01a5746c7bae62500b226f2dc333cc54
+SHA256: 2697b9c07b1d301b113c014050e0b02658e0d532cceac897fb89be28c90ec57b
+Section: Applications
+Description: Works even after reboot due to unc0ver re-signing by Permasigner (iOS 14.0 - 14.8), need to install U0 launcher by Opa334. Attention!!! IT IS JUST TO SEE INTERFACE!
+Author: Pwn20wnd, Sam Binger.
+Icon: https://cydia.ichitaso.com/images/unc0ver-Icon-200px.png
+Name: unc0ver
+Tags: compatible_min::ios14.0, compatible_max::ios17
+
+Package: science.xnu.undecimus.root
+Version: 8.0.2
+Architecture: iphoneos-arm
+Maintainer: Ghh
+Depends: firmware (>=14.0), firmware (<<15.0)
+Filename: ./debs/science.xnu.undecimus.root.deb
+Size: 47219916
+MD5sum: 009ae83ccb39bb044e962f90fdf5fa2e
+SHA1: c576bc19e5792daf6fd001fa6ab9abff4deab400
+SHA256: 713efcf301ab58661ade2b3699cc8576c62eefb77bd3e6e1347b3a95dd2b7e4b
+Section: Applications
+Description: Works even after reboot due to unc0ver re-signing by Permasigner (iOS 14.0 - 14.8), need U0 launcher by 0pa 334 to work properly.
+Author: Pwn20wnd, Sam Binger
+Icon: https://cydia.ichitaso.com/images/unc0ver-Icon-200px.png
+Name: unc0ver
+Tags: compatible_min::ios14.0, compatible_max::ios14.8

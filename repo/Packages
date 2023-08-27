@@ -480,6 +480,7 @@ SHA256: a182fc7f6130ea8ba0820adedf7df2a9ab98ce51ee497236ce02b7a50ffa8e80
 Section: Applications
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Author: coolstar
+Icon: https://ghh-jb.github.io/repo/sileoicons/Taurine.png
 Name: Taurine
 Tags: compatible_min::ios14.0
 
@@ -497,6 +498,7 @@ Section: Applications
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire. Attention!!! THIS VERSION IS ONLY TO SEE INTERFACE OF JAILBROKEN Taurine!!!
 Author: coolstar
 Name: Taurine
+Icon: https://ghh-jb.github.io/repo/sileoicons/Taurine.png
 Tags: compatible_min::ios14.0
 
 Package: science.xnu.undecimus

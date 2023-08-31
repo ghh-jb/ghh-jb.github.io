@@ -568,6 +568,7 @@ Description: Get in the Groove! Alternative to tinywidjet14.
 Author: P2KDev
 Icon: file:///Library/Application Support/Arkita/icon.png
 Name: Arkita
+Icon: https://ghh-jb.github.io/repo/sileoicons/Arkita.jpg
 
 Package: com.ghh.flashnotify
 Version: 1.0.1

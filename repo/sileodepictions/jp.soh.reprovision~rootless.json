@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p><b>Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app and resign it after 7 days! Automatic background resigning is not working. Get official version on <a href=\"https://repo.satoh.dev\">SohSatoh repo.</a></b></p>",
+                    "markdown": "<p><b>Re-sign applications on your device. Rootless, but automatic background resigning is dead. Also, it is showing, that signed app is expired, it is not right! You need to  remember the expiryty time of each app and resign it after 7 days! Automatic background resigning is not working. Get official version on https://repo.satoh.dev</b></p>",
                     "useRawFormat": true,
                     "useSpacing": true
                 }

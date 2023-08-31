@@ -534,3 +534,244 @@ Author: Pwn20wnd, Sam Binger
 Icon: https://cydia.ichitaso.com/images/unc0ver-Icon-200px.png
 Name: unc0ver
 Tags: compatible_min::ios14.0, compatible_max::ios14.8
+
+Package: com.ghh.ants
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 728
+Depends: ellekit, preferenceloader
+Filename: ./debs/com.ghh.ants.deb
+Size: 83444
+MD5sum: b4db51a3c20bd49aa4a04c96fcfff263
+SHA1: e7c9f7acf297ce9e561074f1004c69f163b4bd5c
+SHA256: 94275849926dd66ebcf6be862b9f460f0fa0b9908b343bfd5301ce408e1e24df
+Section: Tweaks
+Description: A classic iOS tweak! Give you some ants! ATTENTION! Preferences are not working! USE TI ON YOUR OWN RISK!
+Author: Ghh
+Name: Ants
+
+Package: com.ghh.arkita
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 528
+Depends: ellekit, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: ./debs/com.ghh.arkita105.deb
+Size: 56632
+MD5sum: 389ece849e3fe1545bd08436c28605b8
+SHA1: 65c250bc2330b39412a89ffcc074adfbb764be7e
+SHA256: 4f1d679b348991cd3ded6dc191848d6b965e07d7b1798555e40744c49bd1e4ea
+Section: Tweaks
+Description: Get in the Groove! Alternative to tinywidjet14.
+Author: P2KDev
+Icon: file:///Library/Application Support/Arkita/icon.png
+Name: Arkita
+
+Package: com.ghh.flashnotify
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Greg0109
+Installed-Size: 452
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ghh.flashnotify.deb
+Size: 123512
+MD5sum: b02d5d2ec24f140292d3374fc47185be
+SHA1: 3947f0523ccf75cb2e721e78ae184d4ebd32e54e
+SHA256: 1d3d35e05d99ec9f9c555b7637e4fd2c7732c909dcc7bff7d50e570e60206163
+Section: Tweaks
+Description: Never forget your flashlight is on again! Automatic disabling and getting notification.
+Author: Greg0109
+Name: FlashNotify
+
+Package: com.ghh.glitter
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.spark.snowboard
+Filename: ./debs/com.ghh.glitter.deb
+Size: 7834624
+MD5sum: 9c2037896a0fab3c50c4c45a7c5bdede
+SHA1: f8aa4888ac0679cd92002d4bc88a88e385238b93
+SHA256: 1a0d847d4c2f5a4455c9519fb25e4ba331cb261cbff61578fc23772bab2413f4
+Section: Themes
+Description: nice theme with color transition!
+Author: Ghh
+Name: Glitter
+
+Package: com.ghh.livesafari
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.livesafari.deb
+Size: 57364
+MD5sum: 8f8f5b3ea28234d2e31ff698e8464330
+SHA1: 894117f446fcba1eb038a43591b1baec3b63a00e
+SHA256: d27917ddad3528567387087aac3449b826420a4f771cde8cb543ee58d5c0f772
+Section: Tweaks
+Description: Make Safari's icon point north
+Author: Ghh
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.livesafari/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.livesafari.png
+Name: LiveSafari
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.livesafari/sileo.json
+
+Package: com.ghh.lpmautolocktime
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.lpmautolocktime.deb
+Size: 22760
+MD5sum: a8d4dbd545b8755b3e5468e9d3b50fd6
+SHA1: e293ef5a191037067d09dbc40867cb14d7b2f409
+SHA256: 380189874bcc59e89873dec46d0f92e69af9e63a228801258ba7a095700e19a3
+Section: Tweaks
+Description: Custom LPM auto lock time
+Author: Ghh
+Name: LPMAutoLockTime
+
+Package: com.ghh.quietdown
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 364
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.ghh.quietdown.deb
+Size: 42200
+MD5sum: cf9d09002a2a1cf3c59a6906549fb379
+SHA1: 968251c644650159b8b4447052f88cee4cee5e79
+SHA256: 3e702b1146133fd7872222dfc7148524107c80be603008bc35b082ddf2c0da8b
+Section: Tweaks
+Description: Mute Notifications for Time Periods
+Author: Ghh
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Name: QuietDown
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/sileo.json
+
+Package: com.ghh.ramundertime
+Version: 3.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 528
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ghh.ramundertime.deb
+Size: 41480
+MD5sum: 470c8b48e819ada43378ffb97ec1058c
+SHA1: c5e06bcd466495a02915577dfa8e37a3b089d747
+SHA256: 415259592cf9af8ce49aa35c121c1c79294de93ad13924b7b4d43e59946243de
+Section: Tweaks
+Description: Shows the amount of free RAM in the status bar.
+Author: Ghh
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.ramundertime
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ramundertime/icon.png
+Name: RAMUnderTime
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.ramundertime.json
+
+Package: com.ghh.sana
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 784
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debs/com.ghh.sana.deb
+Size: 441516
+MD5sum: 84a92b1c6c6b26eeb81c673287ca0a61
+SHA1: fd874bb631a17ff10b95d169fc45be589b96e31b
+SHA256: 6657f2d2bf6155dde122cc36bdef4507d6b58ac881de67de896993e876e50532
+Section: Tweaks
+Description: Change the way your volume HUD looks like. Alternative to Sonus13.
+Author: samoht
+Icon: file:///Library/PreferenceBundles/sanaPrefs.bundle/icon@3x.png
+Name: sana
+
+Package: com.ghh.souvenir
+Version: 1.06
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.souvenir.deb
+Size: 114496
+MD5sum: 892ebb1fbbbd99b6c07f84ae06423879
+SHA1: 9b890edee8a143baa1bd5aa7f18ed1bd55683f50
+SHA256: 3ea2a355f4261c50a44f1e41952497714e1b93eac1f3942f0aeaa757ca70a0eb
+Section: Tweaks
+Description: Lockscreen customization tweak!
+Author: Elio Feghali
+Icon: https://media.havoc.app/64e320d56a132e5871183349
+Name: Souvenir
+
+Package: com.ghh.speedster
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ghh.speedster.deb
+Size: 38004
+MD5sum: 2128df0dd9966cfa1d241c5f470650d9
+SHA1: e4f488ac68dabdb4e251845f24a4e9e9173db628
+SHA256: 38770130cc197b49885cfba5575c4c4f5e80c73f181def6f969224e5b0505c3a
+Section: Tweaks
+Description: Faster iOS animations.
+Author: Ghh
+Name: Speedster
+
+Package: com.ghh.theostips
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: ellekit
+Filename: ./debs/com.ghh.theostips.deb
+Size: 5450464
+MD5sum: 68cfd6b50b5b55bbec716fd4c4171006
+SHA1: 5e04d39e04801329fe7028fe2e3e7e196a2c9e42
+SHA256: 803d1d79a5e8fb289c7c834a01a6f42f691437c4477ee5dc6edb9ca069a1117d
+Section: Applications
+Description: Learn how to make tweaks with ease!
+Author: Ghh
+Name: TheosTips
+
+Package: com.ginsu.libgscommon
+Version: 1.2.6-2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 564
+Filename: ./debs/com.ginsu.libgscommon.deb
+Size: 74228
+MD5sum: acb02497c65d084bd48275737360d514
+SHA1: 5e4636c0b0dffe43a82bcca62c5b6f4af64188e7
+SHA256: 39b54bd8e80e8754b12e3981cff805c0d8c560e4e9e6ed0abb9e3f849fedf6b8
+Section: Development
+Description: A library for Ginsu's tweaks!
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.libgscommon
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.libgscommon/icon.png
+Name: libgscommon
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.libgscommon.json
+
+Package: com.nahtedetihw.shakeitoff
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Filename: ./debs/com.nahtedetihw.shakeitoff.deb
+Size: 155748
+MD5sum: 47f7bbe357f556786e1e15abdef15a3b
+SHA1: d8446c0fdf3aaa0bc48abfb5c000954a55270f9a
+SHA256: 7029391e0ec65cce19df19f0df6b902dc6d02ffd56dd9f1f272987f36639ab1a
+Section: Tweaks
+Homepage: https://nahtedetihw.github.io
+Description: Shake your device to toggle some crap.
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.shakeitoff.html
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.shakeitoff/icon.png
+Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.shakeitoff.json
+Name: ShakeItOff
+Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.shakeitoff.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.2

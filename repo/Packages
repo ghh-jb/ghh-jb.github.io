@@ -776,3 +776,416 @@ Name: ShakeItOff
 Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.shakeitoff.json
 Someotherentrytocontrol: True
 Tags: compatible_min::ios13.0, compatible_max::ios16.2
+
+Package: co.dynastic.ios.tweak.shortlook
+Version: 1.0.23
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 2128
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: ./debs/co.dynastic.ios.tweak.shortlook_1.0.23_iphoneos-arm64.deb
+Size: 1279704
+MD5sum: 4b8dc57debd2bf3f207076c4168c2956
+SHA1: 4222b7a4ea52850eea309b4d6605bf13fb72acb5
+SHA256: 9af2eaa146cd048ff102fc6ebc7927389595d5e5c805a97193996a52c00ecfd0
+Section: Tweaks
+Description: ShortLook shows you your notifications at a glance. ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.
+Author: Dynastic
+Name: ShortLook (rootless)
+
+Package: com.ghh.3dtoggles
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: net.dodtweaks.ithemer | com.spark.snowboard.ui, firmware (>= 12.0)
+Conflicts: com.rio-doro.de.3dknob, com.modmyi.3dswitchermulticolored
+Replaces: com.rio-doro.de.3dknob, com.modmyi.3dswitchermulticolored
+Filename: ./debs/com.ghh.3dtoggles.deb
+Size: 35580
+MD5sum: 504aaaa132c3e4eba2908768703eec36
+SHA1: 5db154a68740c8634bb11f92ad450eaf5c65329f
+SHA256: 2c5a9e6e0fb53edf320c042a12dca5cde7e1ed0be4f8e67a373b4bd31b6791dc
+Section: Themes (Switches)
+Homepage: http://rio-doro.eu/
+Description: themes the on/off switches
+Author: Ghh
+Icon: file:///Library/PackageFiles/eu.rio-doro.3dtoggleswitch/Icon.png
+Name: 3D Switches
+
+Package: com.ghh.7ower
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.7ower.deb
+Size: 7404
+MD5sum: 75281d26a185eba8e62b16ccaeb76f1c
+SHA1: 4cabcfc8e8cea22891d6f59a488a607e93a8938c
+SHA256: b44426e497f1c1dc86d18916f758a5b8858fefd9bfec85a1a54de0c9b17c1063
+Section: Tweaks
+Description: pre-iOS 7.1 style shut down menu!
+Author: Ghh
+Name: 7ower
+
+Package: com.ghh.LiNUZE
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>= 12.0), firmware (<< 16.0), libusbmuxd6, libusb-1.0-0, libirecovery3, libplist3, libimobiledevice6, usbmuxd, ldid, xyz.cypwn.xinam1ne
+Filename: ./debs/com.ghh.LINUZE.deb
+Size: 2230520
+MD5sum: 4ed11dab163687c986ebca06eb747040
+SHA1: e31670092a2c899868f3a3d45b96a2418bae002a
+SHA256: 9a3fd65b8754ad0b2e5bfbf488b5164a3116be6116b48a81738a3014dd94a729
+Section: Applications
+Description: Manage iOS devices using jailbroken iOS devices.
+Author: Ghh
+Icon: https://raw.githubusercontent.com/ra9labs/repo/main/Icons/LiNUZE_icon_120.png
+Name: LiNUZE
+Sileodepiction: https://raw.githubusercontent.com/ra9labs/repo/main/sileo_depiction
+
+Package: com.ghh.jade
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Installed-Size: 1245
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ghh.jade.deb
+Size: 277352
+MD5sum: f65eddcfa247b70d4ebb05e6b89610c4
+SHA1: 7030acf98f06be3c244ea4565bb6b6448a977444
+SHA256: 5d0cb9ef46eb0bf4be711b63048b22dce5e76cadbef5454b5460a85d8721019d
+Section: Tweaks
+Description: Your control center, brought anew.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depiction: https://chariz.com/buy/jade
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade
+
+Package: com.ghh.jellyfishcustom
+Version: 1.3-2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 292
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.jellyfishcustom.deb
+Size: 10520
+MD5sum: 6bbe84b4f180c056d848c47103dc5afa
+SHA1: c95c9880299550cd2d0120646246b327c8185aa9
+SHA256: c9729c56ebfa0505efe919791ec8b46fb20706b96242fe3aebf06865da6bfefa
+Section: Tweaks
+Description: More settings for Jellyfish. Very messy:)
+Author: Ghh
+Name: JellyfishCustom
+
+Package: com.ghh.lstweak
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 296
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.ghh.lstweak.deb
+Size: 17960
+MD5sum: 87d8fb4db3b35a210b99925315bf8e48
+SHA1: 39fcc5a94fde0667441bfd1d49cac1d7d547bc37
+SHA256: 94d94f54cd0ef606996a2cf093cf4cf4e8d61e2c2a3ca12b630deb34cfde2e5e
+Section: Tweaks
+Description: A lockscreen tweak!
+Author: neoney
+Icon: http://neoney.xyz/LSTweak.png
+Name: LSTweak
+
+Package: com.ghh.romanpad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 320
+Depends: mobilesubstrate, firmware(>=13.0)
+Conflicts: beta.simalary.romanpad-beta
+Replaces: beta.simalary.romanpad-beta
+Filename: ./debs/com.ghh.romanpad.deb
+Size: 68308
+MD5sum: a6623bdeaedee208224db67c1edd8255
+SHA1: e07d5db2c21f9c16719eb38c7695a022627f262f
+SHA256: 2faa2c186746b22e78ce7b005aeda7bdf128d6032479fc7ce551e8130908c520
+Section: Tweaks
+Description: Change number buttons to Roman numerals.
+Author: Ghh
+Name: RomanPad
+
+Package: com.ghh.roundedcc
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.roundedcc.deb
+Size: 5652
+MD5sum: 8388e39e392a2c6f53bda87312d23e73
+SHA1: 9d292ef1c69561edfeefce597273be4f2814524f
+SHA256: 1b39bfafaa676dce5d7f199fb5c6794a90f91f42dc2b006a7cf058e7fdc499c9
+Section: Tweaks
+Description: A tweak to round your Control Centre
+Author: neoney
+Icon: https://neoney.xyz/roundedcc.png
+Name: RoundedCC
+
+Package: com.ghh.silentrecorder
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.silentreckorder.deb
+Size: 26180
+MD5sum: 08a4031d87e481af571abb6862ac0eee
+SHA1: 366992ccb1f3249693873a971e76ef2f793d8296
+SHA256: 136f04440701966d79c77202198b643f6a37d17822987ccfc7807ba4e32754df
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: P2KDev
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.ghh.spotcc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.spotcc.deb
+Size: 2948
+MD5sum: 63f6c92a587154505c265c65530aa7de
+SHA1: d9db71086db4334b3273d9eee5dec51746ca70ef
+SHA256: 2e5254406084efb4622730cb51cc7768adaf9de67a543c613896b4d420d43946
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Ghh
+Name: SpotCC
+
+Package: com.ghh.tempusromanum
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.ghh.tempusromanum.deb
+Size: 39304
+MD5sum: dc2fdfcb2a43832658658720b32194de
+SHA1: 5712eb3309a03b9a49c757630c963bd80a78282f
+SHA256: 4848a5b14c02bd9a54548cb4c287cb698637873e1a32b5698f49f8191de5d004
+Section: Tweaks
+Description: Show the time in Roman Numerals
+Author: Ghh
+Name: Tempus Romānum
+
+Package: com.ginsu.acies
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 900
+Depends: mobilesubstrate (>= 0.9.5000), xyz.cypwn.xinam1ne
+Filename: ./debs/com.ginsu.acies.deb
+Size: 191648
+MD5sum: 8bd2e43f2f2fb1c8b32e5f5b97aa518b
+SHA1: fd05ff6f59fa4d3933d086c0910738a9ac7ec71f
+SHA256: 82a006693c5d6454088cd94164623b5ff98fc61566a501aa013c2f3bfe383dab
+Section: Tweaks
+Description: An awesome media player. Partially work. Hasn't been tested thoroughly:(
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.acies
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.acies/icon.png
+Name: Acies
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.acies.json
+
+Package: com.kadirbaran.Glitter
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: kadirbaran <visual.kbaran1616@gmail.com>
+Depends: com.spark.snowboard
+Filename: ./debs/glitter.deb
+Size: 7834656
+MD5sum: 155ef3a3fc09cac80b2a7b71759f3eb3
+SHA1: e1df2452dc8c01f461eca8a0a7e083a7d9a08f91
+SHA256: 49e2fc626ac7e11403ed46d67f0ed98a0b62ba051e017a6ce953baeb87ec3ec9
+Section: Themes
+Description: nice theme with color transition!
+Author: kadirbaran <kbaran1616@gmail.com>
+Name: Glitter
+
+Package: com.laughingquoll.emerald
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: timeloop
+Depends: firmware (>= 15.0), ws.hbang.alderis, com.spark.libsparkapplist
+Filename: ./debs/com.laughingquoll.emerald.deb
+Size: 212240
+MD5sum: b59c12a27e342adf3ab89816f8573286
+SHA1: 7cac768e72b94b61c43d585bc0e49ff174846a63
+SHA256: 578ac805e2b1791e494f18f71c069ec4009695def16c60da7b446fb6046d8923
+Section: Tweaks
+Description: Status Bar Pills and Platters
+Author: timeloop
+Icon: https://media.havoc.app/620c653de96ba40e8240c654
+Name: Emerald
+
+Package: com.sop.cpumagic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 224
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.sop.cpumagic.deb
+Size: 31916
+MD5sum: ae3e34a505649ef0c627ce4698c42944
+SHA1: 34a2c9d1509176b6054468a934a86accb848e5ad
+SHA256: 43b6b5bb71498e99a098f47792497e8b7c43480dff5abe57ecb38ed21c83237a
+Section: Control Center
+Description: Add cpu info to your control center
+Author: SOPPPra
+Icon: https://i.postimg.cc/FzKLczmN/cpu.png
+Name: Cpu Magic
+
+Package: com.sop.memorymagic
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 216
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.sop.memorymagic.deb
+Size: 56968
+MD5sum: 5635cae2456825d921246d1430992e41
+SHA1: ef35b99acc7af7b9f38e6cb2bc288380e8cd8c8d
+SHA256: 98cb0f2a0825048087ef9dbc9767ace4679c3ee7c13f7a2a51411206daedf094
+Section: Control Center
+Description: Add ram info to your control center
+Author: SOPPPra
+Icon: https://i.postimg.cc/bvXdPFnP/Zerode-Plump-Device-RAM-256.png
+Name: Memory Magic
+
+Package: com.sop.networkmagic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 176
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.sop.networkmagic.deb
+Size: 25512
+MD5sum: 148e83ea750e6759a7c42d4db1880893
+SHA1: bc831c066ac658e8156002da06ef3eac7dedb3eb
+SHA256: 026fb50f20e122f8fc96801330ab1d9e082c27fb65065c698aff47ba3eb6b596
+Section: Control Center
+Description: Display your current upload and download speeds in the Control Center
+Author: SOPPPra
+Icon: https://i.postimg.cc/vTmZX3x4/nwicon.png
+Name: Network Magic
+
+Package: com.sop.statustime
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sop.statustime.deb
+Size: 33168
+MD5sum: 0856ad039fdeea59e9bf91ba3b021f54
+SHA1: 04c526e492076aad32cabba045a764835c7dd9d2
+SHA256: 48bca71809c866fb110b628f604eade3978b4852d957d30c21de0713b99fc02d
+Section: Tweaks
+Description: This tweak allows users to customize the date and time format displayed on their device's status bar. Users can choose from a variety of date and time formats, as well as adjust the font size and position of the date and time elements.
+Author: SOPPPra
+Icon: https://i.postimg.cc/430z6Q0x/statustime.png
+Name: StatusTime
+
+Package: com.sop.tweakhub
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 464
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.sop.tweakhub.deb
+Size: 45548
+MD5sum: bab43e90d821d8c22ea6a816e9a37fe7
+SHA1: 4a0f546ccf8c7f940320f5b397235df0042c864d
+SHA256: df178c33635678d8da83ecb5d0ae896bed8029bad7646449b55cd1c59134eeaa
+Section: Tweaks
+Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Author: SOPPPra
+Icon: https://i.postimg.cc/pd0ZkKZJ/tweakhub.png
+Name: TweakHub
+
+Package: com.thomz.hapticbuttons
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.hapticbuttons.deb
+Size: 172808
+MD5sum: 1b9d9644bede44d300ea0e42f9dc41a6
+SHA1: f7a6dba596709bae8912b1066701f45baacb83a1
+SHA256: b2e7e87b4947b857ddb498588172936b6397c66b515931a8d342605242e53708
+Section: Tweaks
+Description: Add haptic feedbacks to your volume buttons
+Author: Ghh
+Icon: file:///Library/PreferenceBundles/HapticButtonsPrefs.bundle/iconFullSize.png
+Name: Haptic Buttons
+
+Package: dev.ayden.ios.lib.sys.aurora
+Version: 1.0.3~rootless
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/dev.ayden.ios.lib.sys.aurora_1.0.3.deb
+Size: 10140
+MD5sum: 20618f77c43dc5f8b9a305fc807d069c
+SHA1: ae3c81bae03b2c7800f68a22d213759d63632e7e
+SHA256: f308d7a9be4d727ed7233423d7427b0bd20c62ffbcd727176bfcd55d1b9227bb
+Section: Development
+Description: Specialized out-of-process weather utility library.
+Tag: role::developer
+Author: Ayden Panhuyzen
+Name: libaurora
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.15.4-1448-g3f29b4c71
+Architecture: iphoneos-arm64
+Maintainer: Henrik Rydgård
+Depends: preferenceloader
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.15.4-1448-g3f29b4c71_iphoneos-arm64.deb
+Size: 21669552
+MD5sum: 0851997a4c273e3f00b8dfbe11a5efc2
+SHA1: 15207e149087450f4a8eb2a1b3efd3b6b0eb265e
+SHA256: 2301df3942ffad23cd374bf5f478542133512c154427d663ebf65688812bb62f
+Section: Games
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Name: PPSSPP (Dev-Latest)
+
+Package: xyz.royalapps.jellyfish
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm, ez.now.jellyfishweatherfix
+Filename: ./debs/xyz.royalapps.jellyfish_1.6.5_iphoneos-arm64.deb
+Size: 68484
+MD5sum: 0331b0067cf963304735202ae1a698e0
+SHA1: cafacb34578d265e741f98f199c83e7c7753d1e8
+SHA256: 89c1bbc3830ec1a88f73d90995ef410dafac9e3aca68e64f395395d9c1020cb9
+Section: Tweaks
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish. Already with fixed weather!
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
+Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
+Name: Jellyfish

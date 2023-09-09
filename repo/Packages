@@ -981,21 +981,6 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.acies/icon.png
 Name: Acies
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.acies.json
 
-Package: com.kadirbaran.Glitter
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: kadirbaran <visual.kbaran1616@gmail.com>
-Depends: com.spark.snowboard
-Filename: ./debs/glitter.deb
-Size: 7834656
-MD5sum: 155ef3a3fc09cac80b2a7b71759f3eb3
-SHA1: e1df2452dc8c01f461eca8a0a7e083a7d9a08f91
-SHA256: 49e2fc626ac7e11403ed46d67f0ed98a0b62ba051e017a6ce953baeb87ec3ec9
-Section: Themes
-Description: nice theme with color transition!
-Author: kadirbaran <kbaran1616@gmail.com>
-Name: Glitter
-
 Package: com.laughingquoll.emerald
 Version: 1.0.7
 Architecture: iphoneos-arm64

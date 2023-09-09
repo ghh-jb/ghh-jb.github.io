@@ -812,21 +812,6 @@ Author: Ghh
 Icon: file:///Library/PackageFiles/eu.rio-doro.3dtoggleswitch/Icon.png
 Name: 3D Switches
 
-Package: com.ghh.7ower
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Ghh
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: ./debs/com.ghh.7ower.deb
-Size: 7404
-MD5sum: 75281d26a185eba8e62b16ccaeb76f1c
-SHA1: 4cabcfc8e8cea22891d6f59a488a607e93a8938c
-SHA256: b44426e497f1c1dc86d18916f758a5b8858fefd9bfec85a1a54de0c9b17c1063
-Section: Tweaks
-Description: pre-iOS 7.1 style shut down menu!
-Author: Ghh
-Name: 7ower
 
 Package: com.ghh.LiNUZE
 Version: 1.1
@@ -1171,3 +1156,19 @@ Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfis
 Author: Justin Proulx & Ayden Panhuyzen
 Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
 Name: Jellyfish
+
+Package: com.peterdev.7ower
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 108
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/com.peterdev.7ower_1.0_iphoneos-arm64.deb
+Size: 7440
+MD5sum: 7bff5dc6a8c7c0d0a517bbe8ec09509c
+SHA1: 7c6385c2c8dd0410e2180d5d426a57321aef7a43
+SHA256: 3e3312b6113d1812cbca88e6e71db3db618b0ae3a2d0ac0598fe284f24760f40
+Section: Tweaks
+Description: pre-iOS 7.1 style shut down menu!
+Author: PeterDev <djperter@icloud.com>
+Name: 7ower

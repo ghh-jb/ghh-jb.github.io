@@ -845,25 +845,6 @@ Icon: https://raw.githubusercontent.com/ra9labs/repo/main/Icons/LiNUZE_icon_120.
 Name: LiNUZE
 Sileodepiction: https://raw.githubusercontent.com/ra9labs/repo/main/sileo_depiction
 
-Package: com.ghh.jade
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
-Installed-Size: 1245
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.ghh.jade.deb
-Size: 277352
-MD5sum: f65eddcfa247b70d4ebb05e6b89610c4
-SHA1: 7030acf98f06be3c244ea4565bb6b6448a977444
-SHA256: 5d0cb9ef46eb0bf4be711b63048b22dce5e76cadbef5454b5460a85d8721019d
-Section: Tweaks
-Description: Your control center, brought anew.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
-Depiction: https://chariz.com/buy/jade
-Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
-Name: Jade
-
 Package: com.ghh.jellyfishcustom
 Version: 1.3-2
 Architecture: iphoneos-arm64
@@ -1171,21 +1152,37 @@ Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
-Package: xyz.royalapps.jellyfish
+Package: com.ghh.jade
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 1245
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ghh.jade.deb
+Size: 277288
+MD5sum: 0202ce889cf023e57a80dccc7c6212a9
+SHA1: 5f9f734703923b347dc097749819e141f5280fb2
+SHA256: 28d188c4841aa5ab6da8a8e577b89c34bc3a32c070e39f6f0a6bb8fca2b4fef5
+Section: Tweaks
+Description: Your control center, brought anew.
+Author: Nightwind and thetimeloop
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade
+
+Package: com.ghh.jellyfish
 Version: 1.6.5
 Architecture: iphoneos-arm64
-Maintainer: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
+Maintainer: Ghh
 Installed-Size: 472
 Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm, ez.now.jellyfishweatherfix
 Filename: ./debs/xyz.royalapps.jellyfish_1.6.5_iphoneos-arm64.deb
-Size: 68484
-MD5sum: 0331b0067cf963304735202ae1a698e0
-SHA1: cafacb34578d265e741f98f199c83e7c7753d1e8
-SHA256: 89c1bbc3830ec1a88f73d90995ef410dafac9e3aca68e64f395395d9c1020cb9
+Size: 68428
+MD5sum: 60fbc98265c4cb6794ef5d924593f122
+SHA1: d0df5f8d525aa8b4f5c35d3ac544f24a649e07c4
+SHA256: b0351049cc367b1a4556fa0781e2240782a325cc9208891231e9919f19fd5138
 Section: Tweaks
 Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish. Already with fixed weather!
-Tag: cydia::commercial, compatible_min::ios13.0
-Author: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
+Author: Justin Proulx & Ayden Panhuyzen
 Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
 Name: Jellyfish

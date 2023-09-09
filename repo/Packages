@@ -1166,7 +1166,6 @@ SHA256: 28d188c4841aa5ab6da8a8e577b89c34bc3a32c070e39f6f0a6bb8fca2b4fef5
 Section: Tweaks
 Description: Your control center, brought anew.
 Author: Nightwind and thetimeloop
-Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
 Name: Jade
 
 Package: com.ghh.jellyfish
@@ -1184,5 +1183,4 @@ SHA256: b0351049cc367b1a4556fa0781e2240782a325cc9208891231e9919f19fd5138
 Section: Tweaks
 Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish. Already with fixed weather!
 Author: Justin Proulx & Ayden Panhuyzen
-Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
 Name: Jellyfish

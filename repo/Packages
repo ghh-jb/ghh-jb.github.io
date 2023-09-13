@@ -1172,3 +1172,294 @@ Section: Tweaks
 Description: pre-iOS 7.1 style shut down menu!
 Author: PeterDev <djperter@icloud.com>
 Name: 7ower
+
+Package: com.1conan.tsssaver
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: 1Conan
+Installed-Size: 232
+Depends: dimentio (>=99) | com.0x7ff.dimentio (>=2.0.0)
+Conflicts: co.dynastic.TSSsaver
+Filename: ./debs/com.1conan.tsssaver.deb
+Size: 54996
+MD5sum: 11023372bc3a2c20e31e85e95feba153
+SHA1: f0d75b61c63008622da9c0c514def8ab642d0868
+SHA256: 90b43ff8028e8bfbd182a0b9ac3b7add68eb7023a52a8ea42682290c447bb876
+Section: Applications
+Description: An easy to use app to save SHSH2 blobs.
+Author: 1Conan
+Name: TSS Saver
+
+Package: com.Ghh.nightshiftmodule
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 180
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/com.shepgoba.nightshiftmodule_1.0.1_iphoneos-arm64.deb
+Size: 18072
+MD5sum: a5ef85f2c76fc5c0d35b55a1955610db
+SHA1: 3a20c72492409eb1a4efac54768f7ccdd3f47d3a
+SHA256: 520d07eea0410352581a509285a5627355ea5b7fe6df092a7b0f3530bcd369da
+Section: Control Center (Modules)
+Description: Change Night Shift from the control center.
+Author: shepgoba
+Name: Night Shift Module
+
+Package: com.Ghh.nightshiftmodule
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 180
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/com.shepgoba.nightshiftmodule.deb
+Size: 18072
+MD5sum: d1e1cbc91c4f3fd4e7464ad10e76197f
+SHA1: 2c474a1811cfe39b003c254ede8918ad3d985e47
+SHA256: 7bf68d3528544f37767dd66ae486b8729b82d9c5f8164afd76dbfbc9a1078a46
+Section: Control Center (Modules)
+Description: Change Night Shift from the control center.
+Author: shepgoba
+Name: Night Shift Module
+
+Package: com.cardboardface.settingstweaklife
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: CardboardFace
+Installed-Size: 260
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.creaturecoding.shuffle
+Filename: ./debs/com.cardboardface.settingstweaklife_1.0.2_iphoneos-arm64.deb
+Size: 4636
+MD5sum: 8fe4b41c407d9cf19e6a51e5d596ae17
+SHA1: 9f3c67b74f62d2efacf2553e2988b99adbfe348e
+SHA256: 526a3786210acfe00db71ab25d5f94a6e1ab29840bbd8af956a7f775267988e2
+Section: Tweaks
+Description: Makes Settings app open straight to the tweaks section
+Author: CardboardFace
+Name: SettingsTweakLife
+
+Package: com.ghh.angryduolingo
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ghh.angryduolingo.deb
+Size: 56656
+MD5sum: 1904478f88de7173effd43e8283ae210
+SHA1: d22882090d82a1aaabf8c8a74ee1471afa13e7e3
+SHA256: 83eab32d75988021390992d09aa8892e189d1d9d329a5da7a46d95aff2a8c1c5
+Section: Tweaks
+Description: Makes the Duolingo Icon angry if you have a Notification
+Author: Ghh
+Name: AngryDuolingo
+
+Package: com.ghh.cydown
+Version: 7.1.6
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: ./debs/com.ghh.cydown.deb
+Size: 2639656
+MD5sum: 9dd7ff0299201286705a00208de2fa59
+SHA1: 2bbaad7737afeaaa82521a8caa83f565e6c0383b
+SHA256: df676a17ccbf1589de9bb8ca9aa146fce0474d0e20608612368ea0c69fd01c44
+Section: Tweaks
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/cydownpp.png
+Name: CyDown++
+
+Package: com.ghh.old-but-gold
+Version: 1.1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate (>= 0.9.5000),com.spark.snowboard
+Filename: ./debs/com.ghh.old-but-gold.deb
+Size: 5056308
+MD5sum: 57db96dd3462fe68ce3426368fe92df9
+SHA1: ce4ec8de4187b4e91cd90adb714efa3cec0b27bb
+SHA256: a02d2568b15a381f1fb98ab43eb437440f5ce8f48c115e10351ec2d9f2aa727c
+Section: Themes
+Description: old iOS 6 icons for new devices
+Author: Ghh
+Name: Old but Gold
+
+Package: com.ghh.prokeys
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Filename: ./debs/com.ghh.prokeys.deb
+Size: 93888
+MD5sum: 02c96845c171dcac993948adc3bd5e2e
+SHA1: 5c986ed31015e39f095ff46a05b69827b55350bc
+SHA256: d6306eec18ce7446837f5ea7aa446b1de52ba1e85e79b668c29718a424907641
+Section: Tweaks
+Description: A Tactile RGB Keyboard for your iPhone, and yea, it is ROOTLESS!!!
+Author: Justin Proulx
+Icon: https://cdn.chariz.cloud/icon/prokeys/icon@3x.png
+Name: ProKeys
+
+Package: com.ghh.quitall
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 485
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist, preferenceloader
+Filename: ./debs/com.ghh.quitall.deb
+Size: 187664
+MD5sum: cf76841c685728475b5ec97b7c71942e
+SHA1: 16ea0739025a6dc26ade978c9a8a8d8a430e862c
+SHA256: ef47e5508684b5a24d6c4513bb3726b5561b14727fa83418aeadb3df0bbf44b3
+Section: Tweaks
+Description: One tweak to quit them all
+Tag: compatible_min::ios13.0
+Author: Dave van Wijk
+Depiction: https://chariz.com/get/quitall
+Icon: https://img.chariz.cloud/icon/quitall/icon@3x.png
+Name: QuitAll
+
+Package: com.ghh.retrotabbar
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.retrotabbars.deb
+Size: 4812
+MD5sum: 8facc70d95ff2c935e2cef342167f184
+SHA1: 84b0a894c06c625a1618b5c92ed0c1338e1ebbb1
+SHA256: edd930766da53556c10864feb25c8b44b5d3de5bf25f0f67417abfd8a50a11fe
+Section: Tweaks
+Description: Give the tab bar a retro look.
+Author: Tanner Bennett
+Name: RetroTabBar
+
+Package: com.ghh.runtimebrowser
+Version: 1.2~rootless
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 5072
+Filename: ./debs/com.ghh.runtimebrowser.deb
+Size: 1448456
+MD5sum: 2f9e84ca36f2ea24602a838688bc276d
+SHA1: d3a12b3a7d092c14e687b3bb5083d6b551c1d263
+SHA256: 83c72cc5ba9521a3edf9e4362b27e817cb0e7f9c8c636149d8e00d5c4a2a2bb9
+Section: Utilities
+Description: Class browser for Objective-C runtime
+Author: Ghh
+Icon: https://chariz.com/cdn/icon/runtimebrowser/icon@3x.png
+Name: RuntimeBrowser
+
+Package: dev.ayden.ios.lib.sys.aurora
+Version: 1.0.4~final
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/libaurora104.deb
+Size: 10496
+MD5sum: 294893cb876ce94ee132985aca31ad8d
+SHA1: f9505ecf3a971c674f104cf3894755054e04c705
+SHA256: 98ae88748ae6f9fcaad254515232cdd2f85bd3f1b117cabb3c6f866c8963ae1f
+Section: Development
+Description: Specialized out-of-process weather utility library. Now without any bugs and lugs:)
+Tag: role::developer
+Author: Ayden Panhuyzen
+Name: libaurora
+
+Package: dev.ayden.ios.serial
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: firmware (>= 11.0), org.swift.libswift
+Filename: ./debs/dev.ayden.ios.serial.deb
+Size: 1252684
+MD5sum: 4c775370b3592861decdc58753802ee5
+SHA1: a0c8052a8a79475119ebfe4f4e81f2c62e724827
+SHA256: 4d44569f9e355e9f45d73501a2ce0755ff3d2a944991a116d84298a2d3919e5a
+Section: Utilities
+Description: Quickly find information such as the manufacture date and model of an Apple device from its serial number.
+Author: Ayden Panhuyzen
+Name: Serial
+
+Package: io.github.worksbybbs.linealmusiccontrols
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./debs/io.github.worksbybbs.linealmusiccontrols.deb
+Size: 35924
+MD5sum: b50dee414ad683fa59d0c5dc709fe2df
+SHA1: 355efc5665cb2debdbfd7a4cfde6f690e8c8385c
+SHA256: 5812d13f17e824a7e6be33a3d41c5e075c725c8661ec3cb044bbcfa9f0fb64e9
+Section: Themes (Music Controls)
+Homepage: https://alo.works/
+Description: Lineal music controls. Works in app, CC, and LS
+Author: Alo <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/io.github.worksbybbs.linealmusiccontrols.html
+Icon: https://alo.works/assets/io.github.worksbybbs.linealmusiccontrols/icon.png
+Moderndepiction: https://alo.works/depiction/native/io.github.worksbybbs.linealmusiccontrols.json
+Name: Lineal Music Controls
+Sileodepiction: https://alo.works/depiction/native/io.github.worksbybbs.linealmusiccontrols.json
+Tags: compatible_min::ios11.0, compatible_max::ios15.8
+
+Package: me.conorthedev.shylabels13
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.noisyflake.shylabels
+Provides: com.noisyflake.shylabels
+Filename: ./debs/me.conorthedev.shylabels13.deb
+Size: 58404
+MD5sum: 66827e6b6fb96881043c83b843559f3e
+SHA1: 547ee0c4a59a72d295c2fdb11694111ce5ccd975
+SHA256: a5476ec306de39a744218edb592fc49e690f9299e327b97ca1e93ab25d37cfe1
+Section: Tweaks
+Description: Hide your app labels when not scrolling
+Author: ConorTheDev + NoisyFlake
+Name: ShyLabels
+
+Package: me.midnightchips.snapback
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: MidnightChips
+Installed-Size: 1248
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: ./debs/me.midnightchips.snapback.deb
+Size: 552724
+MD5sum: a76b9b411ae561477bb63e38bece2dd4
+SHA1: 65c4ffc97b62b7e9befb2577377cf179540ea167
+SHA256: 3bcc7aee8f608fdc7878e71a0c5fb03888c33a0bd1e4e5cc9b48322b983398cd
+Section: Utilities
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depictions/me.midnightchips.snapback
+Icon: https://midnightchips.me/me.midnightchips.snapback/icon.png
+Name: SnapBack
+Sileodepiction: https://midnightchips.me/api/modern/me.midnightchips.snapback
+
+Package: org.swift.libswift
+Version: 6.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 183124
+Depends: firmware (>= 7.0)
+Filename: ./debs/org.swift.libswift.deb
+Size: 46895680
+MD5sum: 4b1f646d8994a03cbd4d14110a46c19c
+SHA1: 13ce2e0e1f93d85947e6462cec77fe1f07d65d7b
+SHA256: de3007bc4b60e9a3de8d1004d82bb62299ecf19502b91253af03f88a5246e41e
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
+Description: Swift runtime for iOS
+Author: Ghh
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
+Name: libswift (stable)

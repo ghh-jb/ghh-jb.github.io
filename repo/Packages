@@ -1449,7 +1449,7 @@ Name: libswift (stable)
 Package: com.ghh.prokeys
 Version: 1.2.0
 Architecture: iphoneos-arm64
-Maintainer: Justin Proulx <justinproulxapps@outlook.com>
+Maintainer: Ghh
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Conflicts: xyz.royalapps.realkeys
@@ -1461,6 +1461,5 @@ SHA256: 16d51e42fe952feeb2e8e848516608c996ce33bd643e65514a551f70a6d778a7
 Section: Tweaks
 Description: A Tactile RGB Keyboard for your iPhone
 Tag: cydia::commercial, compatible_min::ios13.0
-Author: Justin Proulx <justinproulxapps@outlook.com>
-Icon: https://cdn.chariz.cloud/icon/prokeys/icon@3x.png
+Author: Ghh
 Name: ProKeys

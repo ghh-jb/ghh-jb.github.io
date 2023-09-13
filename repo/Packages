@@ -1287,24 +1287,6 @@ Description: old iOS 6 icons for new devices
 Author: Ghh
 Name: Old but Gold
 
-Package: com.ghh.prokeys
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: Ghh
-Installed-Size: 528
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
-Conflicts: xyz.royalapps.realkeys
-Filename: ./debs/com.ghh.prokeys.deb
-Size: 93888
-MD5sum: 02c96845c171dcac993948adc3bd5e2e
-SHA1: 5c986ed31015e39f095ff46a05b69827b55350bc
-SHA256: d6306eec18ce7446837f5ea7aa446b1de52ba1e85e79b668c29718a424907641
-Section: Tweaks
-Description: A Tactile RGB Keyboard for your iPhone, and yea, it is ROOTLESS!!!
-Author: Justin Proulx
-Icon: https://cdn.chariz.cloud/icon/prokeys/icon@3x.png
-Name: ProKeys
-
 Package: com.ghh.quitall
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -1463,3 +1445,22 @@ Description: Swift runtime for iOS
 Author: Ghh
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
 Name: libswift (stable)
+
+Package: com.ghh.prokeys
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Justin Proulx <justinproulxapps@outlook.com>
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Filename: ./debs/com.ghh.prokeys.deb
+Size: 94012
+MD5sum: 6f273bb3cd4df4b49ab3bbe3789d3818
+SHA1: 4197b625dcb3214732063308eff8054ad5942ae0
+SHA256: 16d51e42fe952feeb2e8e848516608c996ce33bd643e65514a551f70a6d778a7
+Section: Tweaks
+Description: A Tactile RGB Keyboard for your iPhone
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: Justin Proulx <justinproulxapps@outlook.com>
+Icon: https://cdn.chariz.cloud/icon/prokeys/icon@3x.png
+Name: ProKeys

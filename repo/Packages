@@ -1447,7 +1447,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
 Name: libswift (stable)
 
 Package: com.ghh.prokeys
-Version: 1.1.2
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: Justin Proulx <justinproulxapps@outlook.com>
 Installed-Size: 528

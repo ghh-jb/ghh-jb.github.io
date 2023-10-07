@@ -1446,20 +1446,17 @@ Author: Ghh
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
 Name: libswift (stable)
 
-Package: com.ghh.prokeys
-Version: 1.2.0
+Package: com.ghh.youup
+Version: 1.8
 Architecture: iphoneos-arm64
 Maintainer: Ghh
-Installed-Size: 528
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
-Conflicts: xyz.royalapps.realkeys
-Filename: ./debs/com.ghh.prokeys.deb
-Size: 94012
-MD5sum: 6f273bb3cd4df4b49ab3bbe3789d3818
-SHA1: 4197b625dcb3214732063308eff8054ad5942ae0
-SHA256: 16d51e42fe952feeb2e8e848516608c996ce33bd643e65514a551f70a6d778a7
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.ghh.youup.deb
+Size: 34064
+MD5sum: 32d080e5c798baa4ba6af918d3e8f1c0
+SHA1: 0700a9b1609d58530b3506bc388f26df60fe8ef1
+SHA256: 296e6e6a4d6cccb2ae7e88d808463c00c2ba46d9f4f33dd14671849685f4166a
 Section: Tweaks
-Description: A Tactile RGB Keyboard for your iPhone
-Tag: cydia::commercial, compatible_min::ios13.0
+Description: Solve math equations before dismissing your alarm. Are you up now?:)
 Author: Ghh
-Name: ProKeys
+Name: You up?

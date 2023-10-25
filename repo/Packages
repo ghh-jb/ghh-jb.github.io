@@ -1461,3 +1461,417 @@ Description: Solve math equations before dismissing your alarm. Are you up now?:
 Author: Ghh
 Name: You up?
 https://ghh-jb.github.io/repo/sileoicons/youup.jpg
+
+Package: com.ghh.ash
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/com.ghh.ash.deb
+Size: 49284
+MD5sum: 60d9c468e1e6ed76259020a734822d8e
+SHA1: d0e160b79738834a6ababe835eaef7f309fc5bfd
+SHA256: 3c55816597cde8e3c6ced8fc23cc85972ffdb93f2ecbd6b28dcf651abafe44c3
+Section: Tweaks
+Description: Easily tell which apps you have opened!
+Tag: compatible_min::ios13.0
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/buy/ash
+Icon: https://chariz.com/cdn/icon/ash/icon@3x.png
+Name: Ash
+
+Package: com.ghh.dleasy
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 4612
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./debs/com.ghh.dleasy.deb
+Size: 808868
+MD5sum: eb880ccf7c0fa5da218c5f1da02527f3
+SHA1: 14b1aaf926fc6a8ed2684747b79ddd6e3999ee6d
+SHA256: 7865fe72641be0162088bb3976207be173d8ed226f3f1a1537913c334d023f45
+Section: Tweaks
+Priority: optional
+Description: Download images & videos from social apps easily! May not work on rootless. sorry.
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Ghh
+Dev: ahmedbafkir
+Icon: file:///var/jb/Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Name: DLEasy
+
+Package: com.ghh.fastlpm
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 524
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11), ws.hbang.common
+Replaces: com.olxios.quickpowermode
+Filename: ./debs/fastlpm.deb
+Size: 11216
+MD5sum: 27abe0d727a75830fe63c4cb8c47269d
+SHA1: a26ed14b611b0c55834d167df0e0c93e8648a714
+SHA256: 0699931599e7047ccd60352c28cebcec1cc4ff1dac686c5636e6d32f6f50a034
+Section: Tweaks
+Description: Toggle LPM by tapping the battery icon. No preferences provided:(
+Author: Ghh
+Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
+Name: FastLPM
+
+Package: com.ghh.fortunecookie
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 712
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.fortuna.deb
+Size: 106364
+MD5sum: 9dfac5b6d8ca63674076176b0e92b172
+SHA1: 2531a8fb3106e558c36474b0891a53026041ca75
+SHA256: bcddc6ff8a9b6308674506f2babd8774766286840c4afab910dc480b7c3e137f
+Section: Tweaks
+Description: Shake your device to get a fortune cookie! Tested to work on dopamine ios 15.2.
+Author: Ghh
+Icon: https://alexpng.github.io/depictions/com.alexpng.fortunecookie/DebIcon.png
+Name: FortuneCookie
+Sileodepiction: https://alexpng.github.io/depictions/com.alexpng.fortunecookie/fortunecookie.json
+
+Package: com.ghh.linearforsb
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 688
+Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
+Filename: ./debs/com.ghh.linearforsb.deb
+Size: 215264
+MD5sum: ba8bf17b349a2aac9e43feac284266ba
+SHA1: c9a33914a4e3b0e4b4440b7218fbd5e530b35e5f
+SHA256: ecd00c1a2444423b8cbfe0ba1c72ae2d7381eacecd009355510bbffac834416a
+Section: Themes
+Description: Status bar icons but in a form of lines. Rootless now.
+Tag: compatible_min::ios12.0
+Author: Ghh
+Depiction: https://chariz.com/get/linear
+Header: https://img.chariz.cloud/sileo-banner/linear.jpg
+Icon: https://img.chariz.cloud/icon/linear/icon@3x.png
+Name: Linear for Status Bar
+
+Package: com.ghh.powerswitch
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.powerswitch.deb
+Size: 117464
+MD5sum: 45f06cc847cf97e46e6b02fdc97d37f0
+SHA1: 31dcf270283f96b6693528936abadb5d7aa6ab85
+SHA256: bf7b0429fcb06b17c53aee36979d69a241cd83b972959c0c4d1164097a7daa23
+Section: Tweaks
+Description: An awesome button for powerwitching:)
+Author: smokin1337 <smokin1337@gmail.com>
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/icon.png
+Name: PowerSwitch
+
+Package: com.ghh.redsn0wRespring
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Filename: ./debs/com.ghh.redsn0wRespring.deb
+Size: 71296
+MD5sum: 8455ac79f41dcf5b2227cfac93d74473
+SHA1: c58966ace60141dca86c28e3c684a2e16d8ae1df
+SHA256: 4af3b01124cdf593e000a3f75734f331b796495edf473f2be56dd99fbf1ea7b4
+Section: Themes
+Description: redsn0w Respring Theme
+Author: Ghh
+Name: redsn0w Respring
+
+Package: com.ghh.respringpack
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.spark.snowboard | com.spark.snowboard.respringextension | com.anemonetheming.anemone
+Filename: ./debs/com.ghh.respringpack.deb
+Size: 446320
+MD5sum: 75fd87d4c3c8ad4afbc8bba3dc2b4d61
+SHA1: c6f8019fad9fbd0f55afef5413bbac99acb5bfeb
+SHA256: 10a802591449cb3fa0be8a7256d2ac109ae2bec296b177f46dd22f40e2cbc2cd
+Section: Themes
+Description: A free respring pack with fun icons
+Author: RedenticDev
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.respringpack
+Icon: https://redentic.dev/depictions/com.redenticdev.respringpack/icon.png
+Name: Redentic's Respring Pack
+Sileodepiction: https://redentic.dev/depictions/com.redenticdev.respringpack/sileo.json
+
+Package: com.ghh.respringpack
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.spark.snowboard | com.spark.snowboard.respringextension | com.anemonetheming.anemone
+Filename: ./debs/com.ghh.jblogos.deb
+Size: 446288
+MD5sum: 95b0f00dd11f696985d5bf51c7341764
+SHA1: 22de11d3d4a423b9a74834dd130bac6cd7a022a5
+SHA256: a6138f97686bb046ab963565e452342954db582b44c019af4b7e7d1d3112d01d
+Section: Themes
+Description: A free respring pack with fun jb icons
+Author: Ghh
+Name: Ghh's respring pack
+
+Package: com.ghh.shady-keyboard
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.spark.laetus
+Filename: ./debs/com.ghh.shady-keyboard.deb
+Size: 955688
+MD5sum: 869135187ac8a0e2469c4a5f32c106e5
+SHA1: 0ee09d4ba7616686a271d91a194332e595804d54
+SHA256: 4cd10e0eb49beda99620cc2b99c72dd526330573333f4495e8667d26e27bf1f2
+Section: Themes
+Description: Maximize Your Keyboard Experience.
+Author: Ghh
+Name: Shady Keyboard
+
+Package: com.ghh.waktos
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Installed-Size: 696
+Depends: mobilesubstrate, firmware (>= 13.0), com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi
+Filename: ./debs/com.ghh.waktos.deb
+Size: 147964
+MD5sum: ea14704335e5ee3f0cb0f1e606188fc3
+SHA1: 4cde411ef2afd086659eedd0c986a4ed4615ba9d
+SHA256: 418f8deada8bc180b0c6379b8e377cb8eef6e3818838e08cbe9ee5b2ca1b3b3a
+Section: Tweaks
+Description: Android Lockscreen. Tested on ios 15.2 Dopamine. iPhone se 2020.
+Author: alimaulana
+Name: Waktos
+
+Package: com.ghh.watermelon
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: LaughingQuoll
+Installed-Size: 1224
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.laughingquoll.watermelon.deb
+Size: 459180
+MD5sum: 31c1dc9882a172879880515885cc0c4f
+SHA1: 1c9719fb4df3cd4a59d023da663a43e6cb43d6bc
+SHA256: 58bfe757ff5f8be5163bfee3267ed0dee3ea970b6c3b742829db195a8a5c0968
+Section: Tweaks
+Description: WatchOS style lockscreen widgets. ----------------------------------------Ghh's dev team is saddened to know that LaugingQuoll has passed away at 22---------his tweaks were made with professional skills.Me and my team will never forget him...
+Author: LaughingQuoll
+Depiction: https://chariz.com/buy/watermelon
+Name: Watermelon
+
+Package: com.modmyi.redsn0wspringyanimation
+Version: 1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.spark.snowboard.respringextension
+Filename: ./debs/com.ghh.redsn0wlog.deb
+Size: 1847916
+MD5sum: 622763f1d95a9b48987d6f3439282394
+SHA1: c09641da9adfb3d3abce4df37d15645d7d57dbaf
+SHA256: ed17127ad6df99c5bf00418222c38f31b97443a4b6d6bff42ab2ceb52ee421de
+Section: Themes
+Description: Relive the nostalgia or the classic iOS 5.1.1 jailbreak loading screen! This came from ModMyI
+Author: Ghh
+Name: RedSn0w Springy Animation
+
+Package: com.peterdev.libpddokdo
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: Soongyu Kwon
+Installed-Size: 216
+Filename: ./debs/com.peterdev.libpddokdo.deb
+Size: 8100
+MD5sum: b76642440befa4cb76ab9ae698e433c8
+SHA1: d707cdb78f60e30a091b088037016d1356441709
+SHA256: 4364ca845a04372f31e5c8d6bac49c68c2cfd865f6e11e878fff2af28c36d04e
+Section: Development
+Description: An awesome library to get current weather which provides by iOS Weater.app easily.
+Author: Soongyu Kwon
+Name: libPDDokdo
+
+Package: com.spark.laetus
+Version: 3.5.1-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 1828
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debs/com.spark.laetus.deb
+Size: 835248
+MD5sum: ab3898d8069a2e30fb5a2db81c293ba1
+SHA1: 4e3d32e743d9d1b5257cb472149d71f42926fc1e
+SHA256: d24572f0f325a5598dee06229e045e0027d544351fe5896c80464d9de569b390
+Section: Tweaks
+Description: Unparalleled Keyboard Customisation
+Author: Spark
+Name: Laetus
+
+Package: com.spark.melior
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.spark.melior.deb
+Size: 166284
+MD5sum: 62646ca474153370dcc9d78cac709fc2
+SHA1: 3332ca480636d96b46066cfa1fd38f0b8b19999a
+SHA256: 25948446a400e2d6a15cfa52d1fbb44419421b0da15c691442d14c59bf430389
+Section: Tweaks
+Description: Custom volume HUD
+Author: Spark & Dennis Bednarz
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Name: Melior [Public]
+
+Package: com.spark.pianopass
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 4112
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.pianopass.deb
+Size: 2896232
+MD5sum: bb6f90ec0a233a814222195f3e85715e
+SHA1: 8045d91d0536611fb2cd1265e4f1fab569d74839
+SHA256: 0269d1a50827444ccab2814f247ed9fa319889f7037bcff7c0d1453a0ca5894b
+Section: Tweaks
+Description: Use a piano as your passcode!
+Author: Spark
+Name: PianoPass
+
+Package: com.spark.snowboard.respringextension
+Version: 1.0.7~Beta3
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.respringextension.deb
+Size: 42020
+MD5sum: e83637c26f87008a15323f2ca89814b9
+SHA1: 32b3b18e639814825cbc6d6dac17e9196aefb096
+SHA256: 20b5b51c4a7197f5c343886f2e40ceba8828f739d00a28b51cfba49f85fb5ca0
+Section: SnowBoard Extensions
+Description: Respring icon extension for SnowBoard. Finally on rootless! Tested to work on ios 15.2 Dopamine iPhone SE 2020.
+Author: Spark
+Name: SnowBoard Respring Extension
+
+Package: com.spark.vesta
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.spark.vesta.deb
+Size: 278112
+MD5sum: 0401083a113a1f805290b2e21dc0ce85
+SHA1: b2abc1953d5f63274084da32f52e22e3bf1aeb89
+SHA256: 10ff88cf8f9026bc1036107ec7314344f8c1239ec5d21e97ea2463d7d37eae60
+Section: Tweaks
+Description: Pretty cool App Drawer. Tested to work io ios15.2 iPhone SE 2020 Dopamine.
+Author: Spark
+Name: Vesta
+
+Package: dev.ayden.ios.tweak.starfish-lite
+Version: 0.9.7
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 1056
+Depends: mobilesubstrate, dev.ayden.ios.lib.sys.aurora, co.dynastic.ios.lib.flora, firmware (>= 14.0), cy+model.iphone | cy+model.ipod
+Provides: applebetas.ios.tweak.roundlockscreen
+Filename: ./debs/dev.ayden.ios.tweak.starfishbeta.deb
+Size: 118960
+MD5sum: 34b6e8d444c31b8969ec595681362e69
+SHA1: 018342c4970beb952de4fe797762b9ff34c10d24
+SHA256: e4f5bec81c4fb50e1bca9ee7b95ca1f7361d340c627b049ec04a44cea5be0023
+Section: Tweaks
+Description: Starfish is a meticulous redesign of the Home screen. This tweak is in beta. Sorry, but spotlight is broken:(
+Author: Ayden Panhuyzen
+Name: Starfish Beta
+
+Package: dev.traurige.libkitten
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 152
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Provides: love.litten.libkitten (=1.3.3)
+Filename: ./debs/dev.traurige.libkitten.deb
+Size: 7784
+MD5sum: aac466979ac911de8796a6feecd2b9f4
+SHA1: b831e54f0943b232a51e1104ee2d29679ff1b199
+SHA256: f53bb6dc3eaf0bdc2ca49deaa8560c0bbf9860b8645e236a0a26929c5f95d970
+Section: System
+Description: Collection of image and color calculations
+Tag: role::developer
+Author: Traurige <hello@traurige.dev>
+Name: libKitten
+
+Package: gq.8a1wkar.dotscolor
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker, preferenceloader, xyz.cypwn.xinam1ne
+Filename: ./debs/gq.8a1wkar.dotscolor.deb
+Size: 21816
+MD5sum: 33782bec33e0ca0d7fddec1192d9e538
+SHA1: f3fece7627bcc9581f042e64f405aa835996b0ad
+SHA256: 0071f5cfe8be133fb8695ea2f0675c84d716c4a1eef4ebdaece924178c6651cb
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dotscolorDp
+Description: Change dots color in home screen and lock screen
+Tag: purpose::extension, compatible::ios13
+Author: 8a1wkar <hawkarxoshnaw341@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dotscolorDp
+Dev: 8a1wkar
+Icon: file:///Library/PreferenceBundles/dotsprefs.bundle/icon@3x.png
+Name: Dots color
+
+Package: heyitsshuga.bsodrespring
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Shuga <sileo@shuga.co>
+Depends: firmware (>=8.0), winterboard
+Filename: ./debs/heyitsshuga.bsodrespring.deb
+Size: 160356
+MD5sum: e07d8c9ebebeefdc5b2b5be0d96b72c0
+SHA1: 93ee026bb437a9cfdc3728df22e0cf15e6450d30
+SHA256: 237e39790797f2f1331d2f4532c034a3390842e0a39d606b3c84c8d9607ae0b0
+Section: Themes
+Homepage: https://shuga.co/repo
+Description: Make your respring logo into the Blue Screen of Death!
+Author: Shuga <sileo@shuga.co>
+Depiction: https://repo.shuga.co/depiction/web/heyitsshuga.bsodrespring.html
+Icon: https://repo.shuga.co/assets/heyitsshuga.bsodrespring/icon.png
+Moderndepiction: https://repo.shuga.co/depiction/native/heyitsshuga.bsodrespring.json
+Name: BSoD Respring
+Sileodepiction: https://repo.shuga.co/depiction/native/heyitsshuga.bsodrespring.json
+
+Package: love.litten.diary
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 5344
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Filename: ./debs/love.litten.diary.deb
+Size: 2591392
+MD5sum: 04cb406e0589d8b51dbdd2d411dee04a
+SHA1: 33dedecd9046846c8ca327dde359356a8af31dc8
+SHA256: 07688ae73452d7f427ecfb219af184eefffdcc766e2c1d61a6320a23760a99db
+Section: Tweaks
+Description: Dear diary, legendary windows 10/11 lock screen has been updated to rootless!
+Author: Litten
+Name: Diary 📖

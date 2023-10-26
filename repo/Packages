@@ -2090,13 +2090,13 @@ Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Ghh
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.opa334.ccsupport
-Filename: ./debs/com.ghh.playtopia2.deb
+Filename: ./debs/com.ghh.playtopia.deb
 Size: 629724
 MD5sum: 99ddce644a3200a814c74784ae19c20a
 SHA1: 12028f35300b437e4775e33a358b5ed9a8fdf694
 SHA256: 0031b2bebd634923190d187d27fd53aecac4c42202c472592105a3d6e64a48c0
 Section: Tweaks
-Description: A legendary floating music player ported to rootless.
+Description: A legendary floating music player ported to rootless. I need to make an instakler for this... It won't install...
 Author: Ginsu & Ghh
 Icon: https://cdn.chariz.cloud/icon/playtopia/icon@3x.png
 Name: Playtopia 2

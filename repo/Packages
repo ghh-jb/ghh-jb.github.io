@@ -1875,3 +1875,446 @@ Section: Tweaks
 Description: Dear diary, legendary windows 10/11 lock screen has been updated to rootless!
 Author: Litten
 Name: Diary 📖
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker.deb
+Size: 149152
+MD5sum: f506e28ff4ffa1353a7a3f6116d8289e
+SHA1: 0d56b71d58c4e1981fa6a7a6a57f818983fbe0ee
+SHA256: 5c4d2a60336bbbca14c034459017f26c6e3ff4d121c257d73a2fec6634c297d4
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Name: libCSColorPicker
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
+Package: com.falcon.central
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: MrGcGamer
+Installed-Size: 708
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./debs/com.falcon.central.deb
+Size: 374468
+MD5sum: e3192a0c68b38f55144ed5f3e8ec6998
+SHA1: b0507616f2b4ffafc3f588fb6e92b169f9f0b85f
+SHA256: c366dbc699328b0eed196154c5bd7f813b522265432ed1f69528a8aa74ff0449
+Section: Tweaks
+Description: Center the last row of icons on your home screen. Tested✅
+Author: MrGcGamer & Falcon
+Name: Central
+
+Package: com.fissiondev.uranium
+Version: 1.2.7
+Architecture: iphoneos-arm64
+Maintainer: FissionDev
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Filename: ./debs/com.fissiondev.uranium.deb
+Size: 38568
+MD5sum: cb03a552ad21ca4a1884d0027f858d17
+SHA1: 799449297ec596edf89a6831c88ffe82ca768de3
+SHA256: c16852fbb495a8ceb3d6c8ac1b8d54f01b978f4c31f52d379ce7d669ef167a92
+Section: Tweaks
+Description: Lots Of Options To Enhance Your iOS Experience!
+Author: FissionDev
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+Name: Uranium
+
+Package: com.ghh.1di4r.reachinfo
+Version: 2.1.7
+Architecture: iphoneos-arm64
+Maintainer: Gh
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), firmware (>= 13.0), ws.hbang.common (>= 1.11), com.peterdev.libpddokdo
+Filename: ./debs/com.ghh.1di4r.reachinfo.deb
+Size: 388280
+MD5sum: 0032a76b30be9c3377381dfb3489a3b2
+SHA1: c20c4c5bd4513a8265edddb63e0ccebef50923d6
+SHA256: e51c058006f7ddd2be6df7f98d3d2ba8052209bb802480bcc21d43497c7423e8
+Section: Tweaks
+Description: Reachability modernized. Cool modernized. if you use weather, if you are not connected to network it will crash into safe mode.
+Author: Ghh
+Name: ReachInfo
+
+Package: com.ghh.NewGlyph
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Filename: ./debs/com.ghh.NewGlyph.deb
+Size: 3965884
+MD5sum: 7f874f35e2d99deaa86cd336354d8965
+SHA1: 6794c5685b12008cb567a740c339159cd5f41335
+SHA256: 3073e14f48c82af8620db57a7429886609117acf5678a275e1eb22483109439d
+Section: Themes
+Description: Glyph color icons
+Author: Ghh
+Name: NewGlyph
+
+Package: com.ghh.aerial2
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: PolyTweaks
+Installed-Size: 5172
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.aerial2.deb
+Size: 83388
+MD5sum: 056e7238c25fcf8c7c57a101c2f53301
+SHA1: 2e4c31b7dee446d46c3728adab25f9330eaa4f56
+SHA256: 649b902a83eac7d3570d4bc0544e6a454192fa0150b0ce607cffc29fbe7b9eca
+Section: Tweaks
+Description: Colorise your status bar icons with ease.
+Author: PolyTweaks
+Name: Aerial 2
+
+Package: com.ghh.animemyscreen
+Version: 1.0k
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11)
+Filename: ./debs/com.ghh.animemyscreen.deb
+Size: 147052
+MD5sum: 1090ad9a8b9b33458c68e056a5bc14e5
+SHA1: aae72b9a8258bac8d5725490af03f97aee2834fa
+SHA256: 84e5df4201a6b624c543b24f46516e46f6eeb33f157580843bc2f10c52ae264e
+Section: Tweaks
+Description: Take Control Of Your LockScreen,!!!Don't use volume buttons when screen is locked, please.
+Author: Ghh
+Name: AnimeMyScreen Pro
+
+Package: com.ghh.conditional
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.conditional.deb
+Size: 3120
+MD5sum: 2bde00082570db915d7d4e80e771c7bd
+SHA1: f14006cc17d357a079d6432f6e24d8e5aa4da7ba
+SHA256: dfc6f96ec965cbf2669c98cf54b9478dff5ac3a58e5af03d07c7e6f7a5d3ab18
+Section: Tweaks
+Description: Allows restricting which apps get WiFi + Cellular/ only WIFI/ off
+Author: Ghh
+Name: Conditional
+
+Package: com.ghh.iflooder
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ghh.iflooder.deb
+Size: 12024
+MD5sum: 8276d92a94ba3a4142bc1d9ee9dc1a25
+SHA1: 6b062f062cca9a3d8482bae12256f3dbcd162a17
+SHA256: eb9ef5c4213ac0fc02b53a9408d9b72fd555ee82d83284fbbe1372e30756bebf
+Section: Tweaks
+Description: A tweak to spam in the messages app.
+Author: Ghh
+Name: iFlooder
+
+Package: com.ghh.jade
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 1275
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ghh.jade110.deb
+Size: 283148
+MD5sum: 73e867cbce879f129827c01dd628443e
+SHA1: dba525ea18ecf6b272fb8e072219c44161d0d5b8
+SHA256: ca7fd9b069786718d6479e5040f167f0390cc5644962f773fd1731280a36dd25
+Section: Tweaks
+Description: Your control center, brought anew.
+Author: Nightwind Timeloop Ghh
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade
+
+Package: com.ghh.jellylockreborn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 2648
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,ws.hbang.alderis (>= 1.1),com.spark.libsparkapplist
+Filename: ./debs/com.ghh.jellylockreborn.deb
+Size: 2056608
+MD5sum: 57bf0aede53cd18a7ee59c5e828a223f
+SHA1: eed4698f78fc96fce818690a39ca54777dcba2a5
+SHA256: de479e1625a422a06a39393cddb604a6568c60464365e7c22ab198cac142918e
+Section: Tweaks
+Description: A beautifully simple lockscreen application launcher for iOS 14&15
+Author: Ghh
+Name: JellyLock Reborn
+
+Package: com.ghh.john-sklikas.3dbadgeclear
+Version: 1.6.8
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate,l
+Filename: ./debs/com.ghh.john-sklikas.3dbadgeclear.deb
+Size: 141320
+MD5sum: 3ec22071accbbfa5dc08d95874fe8ca1
+SHA1: d600421cd64f6e8bf9b337684c2397e7db72ee26
+SHA256: d97631c7c566d0fdb3e6e80717692e302b26e41b014de6bd39a0fa69aeb9de02
+Section: Tweaks
+Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
+Author: John Sklikas Ghh
+Name: 3DBadgeClear
+
+Package: com.ghh.kleanhsls
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.spark.libsparkcolourpicker, com.peterdev.libpddokdo
+Filename: ./debs/com.ghh.kleanhsls.deb
+Size: 306304
+MD5sum: a44dceb9b79cce4ca6bdfeb0398d1234
+SHA1: 760d45e0507dc3cad1f5289fd2c5a43e47c8fc84
+SHA256: 2f76cd87ee8db6cc353fa3b65fe6441cfba6a5d8a95fd464d64c9c4df8e8d2f6
+Section: Tweaks
+Description: Awesome Widget for Homescreen & Lockscreen. NOT NEED XENHTML!
+Author: Ghh
+Name: Klean
+
+Package: com.ghh.playtopia2
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ghh.playtopia2.deb
+Size: 629724
+MD5sum: 99ddce644a3200a814c74784ae19c20a
+SHA1: 12028f35300b437e4775e33a358b5ed9a8fdf694
+SHA256: 0031b2bebd634923190d187d27fd53aecac4c42202c472592105a3d6e64a48c0
+Section: Tweaks
+Description: A legendary floating music player ported to rootless.
+Author: Ginsu & Ghh
+Icon: https://cdn.chariz.cloud/icon/playtopia/icon@3x.png
+Name: Playtopia 2
+
+Package: com.ghh.powerreach
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 1176
+Filename: ./debs/com.ghh.powerreach.deb
+Size: 335188
+MD5sum: fdb7fd13ddb42824dc28a9f53d9bc2a6
+SHA1: 352793f14e2b3d6a20714854946621c97343ca26
+SHA256: a74db631b2d49a663fe281202f0578497f7fb56cdbee77aeaf8f4fcc414341eb
+Section: Tweaks
+Description: Power menu in reachability window!
+Author: Ghh
+Name: PowerReach
+
+Package: com.ghh.snoverlay
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Replaces: com.leftyfl1p.snoverlay
+Filename: ./debs/com.ghh.snoverlay.deb
+Size: 105296
+MD5sum: e401684fdd054c743ee238dcb2a9a0a8
+SHA1: 73d2f87c4c20fce1a82390a29b3015609006f084
+SHA256: 3644d174d9488fa5dcc3380e49fb7a135cc0795a9752ea15564c2a2b3005d2ea
+Section: Tweaks
+Description: Falling Snowflakes on your HS and LS.
+Author: Ghh
+Name: Snoverlay 2
+
+Package: com.ghh.souvenir
+Version: 1.20
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ghh.souvenir120.deb
+Size: 98456
+MD5sum: ee4c08d869ccc693e6caacbc1e0c265e
+SHA1: 4b134eff66f942c6db17529bf0fe0d95c1d52e0b
+SHA256: 3b0f2dbe100df9f98410d8e3048a5a172f7d4d89403c854df717f4c38b4b8eac
+Section: Tweaks
+Description: Lockscreen customization tweak!
+Author: Elio Feghali
+Name: Souvenir
+
+Package: com.ghh.waggletunes
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 540
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.16)
+Filename: ./debs/com.ghh.waggletunes.deb
+Size: 59816
+MD5sum: 5737f9a6dea827b88daf79a326409405
+SHA1: 45438de46e9251796e99e2b406eb35507039729d
+SHA256: 7d8ba40469dfbffa6f9743be8a73a8b891bad8d99c608afbb6ea454ca4ad112f
+Section: Tweaks
+Description: A customizable music controller for every setup at the side of the screen. Now rootless!
+Author: Ghh
+Name: WaggleTunes
+
+Package: com.ginsu.nointerruptwhenplayingmusic
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64.deb
+Size: 5296
+MD5sum: 95e6030c1cbfb2319bec28a7eec58c78
+SHA1: 6152ae848bf6e3e02329974adb48d28876248011
+SHA256: 05d699758d9bc82750023db3f793009eabfa2aabf10cc909ca5de1c032495038
+Section: Tweaks
+Description: Quiet notifications when music is playing.
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.nointerruptwhenplayingmusic
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
+Name: NoInterruptWhenPlayingMusic
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
+
+Package: com.megadev.bonzibuddy
+Version: 0.2-1
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ghh.bonzibuddy.deb
+Size: 474756
+MD5sum: baa28ffe6ba3addc867686e59d16dddc
+SHA1: f4417dc9e35aaf35f378306c272fbcb7c43ad9f2
+SHA256: 4f11894319b3f6b6e14813c29a5b731c3c3141f3e23d04690d74c2b82df6665b
+Section: Tweaks
+Priority: optional
+Description: Bonzi Buddy ported to iOS. ofcourse without the malware :)
+Author: Ghh
+Icon: file:///var/jb/Library/PreferenceBundles/Bonzipref.bundle/icon@2x.png
+Name: Bonzi Buddy
+
+Package: com.samgisaninja.mcsplash
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Installed-Size: 764
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.samgisaninja.mcsplash.deb
+Size: 450848
+MD5sum: 6293a9f3d0c5a975b67f0a4e7dbd806c
+SHA1: 28fccfdfabc28f8ebc48fccd92cc6c8e99961eb4
+SHA256: b8a71323bc3fc126c00f80926caca657773b3117cfb1f31bbf0735927af54f9b
+Section: Tweaks
+Description: Minecraft splashes on your lock screen.
+Author: Samg_is_a_Ninja
+Name: Bedrock
+
+Package: com.the-samminater.disablescreentime
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Filename: ./debs/com.ghh.disablescreentime.deb
+Size: 1380
+MD5sum: d2672b99ae387ee7fadab3e8396a26a0
+SHA1: be46c14854be40098aa844c4d27b7fe57097a722
+SHA256: d4a92f6efe89a266868c5e98bc344555cf3aeab7bee53e73415beab5a6b45577
+Section: Tweaks
+Description: A script that disables screentime. Tested! Working on ios15.2! I reccomend for children!
+Author: Ghh
+Name: Disable Screentime
+
+Package: libnode83
+Version: 14.13.1
+Architecture: iphoneos-arm64
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 126520
+Depends: libbrotli1, libc-ares2, libssl1.1, libnghttp2-14, libuv1
+Conflicts: nodejs (<< 14.13.1)
+Filename: ./debs/libnode83.deb
+Size: 13721712
+MD5sum: 57e1e48215af212e5d4b4aef2c17a6d5
+SHA1: 2b18d1a9341897610701617d7e4d766e42490324
+SHA256: 9d7c2c2063c2a7ba6418dd801243f08894e81a4ec755284f854553ffd907b4bb
+Section: Libraries
+Description: evented I/O for V8 javascript - runtime library
+ Node.js is a platform built on Chrome's JavaScript runtime for easily
+ building fast, scalable network applications. Node.js uses an
+ event-driven, non-blocking I/O model that makes it lightweight and
+ efficient, perfect for data-intensive real-time applications that run
+ across distributed devices.
+ .
+ Node.js is bundled with several useful libraries to handle server
+ tasks:
+ .
+ System, Events, Standard I/O, Modules, Timers, Child Processes, POSIX,
+ HTTP, Multipart Parsing, TCP, DNS, Assert, Path, URL, Query Strings.
+ .
+ This package provides the dynamic library for Node.js.
+
+Package: love.litten.astolfo
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2336
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.astolfo.deb
+Size: 1944536
+MD5sum: b69183c78ff7a4c68d6fe8086cfaf795
+SHA1: 8f0d0dc66acca20ebfb59292606d7d28f3602d87
+SHA256: b328932e462a1dc5e15f58f90cc5be3c28f071abb93c8686e1b6ef331b819059
+Section: Tweaks
+Description: Astolfo siri. legendary litten tweaks  are on rootless:)
+Author: Litten
+Icon: https://repo.litten.love/depictions/Astolfo/assets/icon.png
+Name: Astolfo 👒
+
+Package: me.ghh.minimal
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Jez
+Installed-Size: 452
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Filename: ./debs/me.ghh.minimal.deb
+Size: 40792
+MD5sum: 2aba861164c3d640b9fb5771f9a8a4ce
+SHA1: c96a6d71fdf13474f8089c2a6cf3877d8b853bb4
+SHA256: 49e8417cddfcd1cae10e63c21a611b4ae888c836add87b48ad27f257bbb2986f
+Section: Tweaks
+Description: Minimalist look for your notifications! Hope it will work... NOT TESTED!
+Author: Jez
+Name: Minimal
+
+Package: nodejs
+Version: 14.13.1
+Architecture: iphoneos-arm64
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 120
+Depends: libnode83 (= 14.13.1)
+Recommends: ca-certificates
+Suggests: npm
+Filename: ./debs/nodejs.deb
+Size: 10072
+MD5sum: bc962aee8d06ab7e7377aac49c45eb0a
+SHA1: 9b08b2d0c49524995b2a38358733498ef2c2fd9b
+SHA256: a4d755d942ec29839637338d901ecd4286bf883358b544a54b7a2280f3ba5667
+Section: Scripting
+Description: evented I/O for V8 javascript - runtime executable
+ Node.js is a platform built on Chrome's JavaScript runtime for easily
+ building fast, scalable network applications. Node.js uses an
+ event-driven, non-blocking I/O model that makes it lightweight and
+ efficient, perfect for data-intensive real-time applications that run
+ across distributed devices.
+ .
+ Node.js is bundled with several useful libraries to handle server
+ tasks:
+ .
+ System, Events, Standard I/O, Modules, Timers, Child Processes, POSIX,
+ HTTP, Multipart Parsing, TCP, DNS, Assert, Path, URL, Query Strings.

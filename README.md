@@ -3,5 +3,6 @@
 Useful links:
 
 - Sileo start page: https://ghh-jb.github.io
-- Sileo repo: https://ghh-jb.github.io/repo
+- Sileo rootless repo: https://ghh-jb.github.io/repo
+- Sileo roothide repo: https://ghh-jb.github.io/roothide
 - GitHub repo: https://github.com/ghh-jb/ghh-jb.github.io

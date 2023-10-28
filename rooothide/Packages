@@ -1,0 +1,118 @@
+Package: com.p2kdev.tapticboard
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.1.1_iphoneos-arm64e.deb
+Size: 27508
+MD5sum: 956bd21c396db98e4069bda79f2b7cdc
+SHA1: 3dd45a2a28e81dc4a36752a82703e215863fdd90
+SHA256: 829181b38d93b05552c62e0ee855a52883454fc6c9f28f4b13b2af9483336de7
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
+Name: TapticBoard
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
+
+Package: com.ps.amber
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 368
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.ps.amber_1.2.0_iphoneos-arm64e.deb
+Size: 12920
+MD5sum: 7697edc7097dec9fb7e377dbec84989b
+SHA1: d0f4263c40db6dcf335e3c2b516ce2ac947c1d76
+SHA256: 801afb883a5a5a1e76381e663607f76e3bb08fa6e80deb2e39b893b5c497b40e
+Section: Tweaks
+Description: Amber-ify your flashlight LEDs.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+Name: Amber
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+
+Package: com.spark.snowboard
+Version: 1.5.21-Beta3-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 3188
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/1.5.21-Beta3-roothide.deb
+Size: 2545782
+MD5sum: c15c6b2d59ac2ff13bba451c3a78c685
+SHA1: 46b298f74215e2deb61e345ba61f25f155e0f88a
+SHA256: 519013d6f4ef39951f8add28f6953de9ceac9337b2365d14041ebc6acf521f74
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
+Package: emt.paisseon.satella
+Version: 1.8.1
+Architecture: iphoneos-arm64e
+Maintainer: Lilliana
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debs/emt.paisseon.satella_1.8.1_iphoneos-arm64e.deb
+Size: 126864
+MD5sum: 73912463306d92003b5ad1ce2c70f529
+SHA1: 7012fa2e13c4eacac4bdf456da1ffc5f91c778f2
+SHA256: 973bc4d03df11f80c64d8688d1e05a6444a8c261835adbf7744f1c4be8e4c4dd
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: net.sourceloc.pinanim
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: sourcelocation
+Installed-Size: 604
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/net.sourceloc.pinanim_2.0_iphoneos-arm64e.deb
+Size: 100020
+MD5sum: 48cf687e1e05a199461b4c3444adea5f
+SHA1: b261c17ac4e2c4ba41656141c610cd94422322ff
+SHA256: 3890c41e19ad4c08424f04555ec6ae0f0c55f9e291ab21ac7bb744813b06eb87
+Section: Tweaks
+Description: Animations for Pin dots
+Author: sourcelocation
+Name: PinAnim
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.16.2
+Architecture: iphoneos-arm64e
+Maintainer: Henrik Rydgård
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: preferenceloader
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.16.2_iphoneos-arm64e.deb
+Size: 54948388
+MD5sum: df616ab492189ad2100b0eb59cb69205
+SHA1: e89d9e460a7009a07561bcd0ee9945665be51c46
+SHA256: ffa0232b1c7ee331f672de63152a3848312b45fa1f6e823de72ad0caa06c823c
+Section: Games
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Name: PPSSPP (Dev-Latest)
+

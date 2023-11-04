@@ -116,3 +116,212 @@ Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro.deb
+Size: 1090948
+MD5sum: f1a0d8e9587c1d9819460ede87ff1da9
+SHA1: b350c33f33df291c6636b7eb8a3479f60a7a7144
+SHA256: 07e33bdfb5c23ad45c926543776ab30a30dd089eaab2adb5b547f03e74008a5a
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.ghh.complications
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Installed-Size: 3022
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.icraze.complicationsfix, oldabi
+Filename: ./debs/com.ghh.complications.deb
+Size: 647832
+MD5sum: 04db5c16e1c2ab91606b8a5e608b3fef
+SHA1: 9005a6e165fb40baac6585a6889adc06b922cab9
+SHA256: dfd2f12571155837f810f51ab236e67c242697ff27e3af2121da179ef372862f
+Section: Tweaks
+Description: watchOS widgets on your lock screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/566
+Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
+Name: Complications
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/566
+
+Package: com.ghh.jade
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Ghh
+Installed-Size: 1275
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ghh.jade110.deb
+Size: 289644
+MD5sum: 95aef6fd15b80a8b604bdc3bd734142c
+SHA1: 4f77ce4e6f68cecfa315bf77afd7ebcfd982469a
+SHA256: 44fb28f7ac6cea1c42e7bab46e113fd976e737be16828352b63dee49526c7442
+Section: Tweaks
+Description: Your control center, brought anew.
+Author: Nightwind Timeloop Ghh
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade
+
+Package: com.ginsu.dodo
+Version: 4.2.2
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 7592
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Filename: ./debs/com.ginsu.dodo.deb
+Size: 963764
+MD5sum: 237f1f2783e6ede05e21307907ebf426
+SHA1: e4832d3c0d0c06e36530d55aa7eaf8b3bfee57a9
+SHA256: 0060d90985c5681e9f295460c9d646227343e9d7c793a7f516fe9576fe1dcf56
+Section: Tweaks
+Description: The perfect Lock Screen redesign. Most part of functions are working.
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
+Name: Dodo (Roothide)
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
+
+Package: com.ginsu.gscore
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 4272
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.ginsu.gscore.deb
+Size: 427196
+MD5sum: 129551449caf4416f4f12f80449268fb
+SHA1: 2607f0afed914daacbcf00382939949ee00e4994
+SHA256: 092d3c4ab230b6720bde2445d68c5a8d96b36a5387402c3eaf80abe1fbc7fd85
+Section: Tweaks
+Description: Environment and communication between my tweaks
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gscore
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gscore/icon.png
+Name: GSCore (Roothide)
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gscore.json
+
+Package: com.ginsu.gsweather
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 1216
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.ginsu.gsweather.deb
+Size: 119240
+MD5sum: b4c7774fc3a8f58cc26be94d634801e8
+SHA1: 54abfcc3bc9398eab9136d892a8f78653d034c5a
+SHA256: 8f2f02d04f8edac95491fed50ac8494ad9e4113a979feac122949d270ebf64e4
+Section: Tweaks
+Description: A Weather fetching framework
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
+Name: GSWeather (Roothide)
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+
+Package: com.icraze.complicationsfix
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: iCraze
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.icraze.complicationsfix.deb
+Size: 5880
+MD5sum: b5e31f759a75424aaffcc70fb7560ae8
+SHA1: a427909dca4edbc6e9152451e9a20e880c8db3e0
+SHA256: ce4c7056524f30b6b999f3be1ff2bfb979bfd9ffab83a0e341ba7e67ff656029
+Section: Tweaks
+Description: Fix Complications tweak on iOS 15-17
+Author: iCraze & AlexBurneikis
+Name: ComplicationsFix
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1
+Architecture: iphoneos-arm64e
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.qiop1379.swipeextenderx.deb
+Size: 80444
+MD5sum: a46426534a67925ad9eee017fe3e9d97
+SHA1: 36d00538f94e0c85fc87457965eae85fddece578
+SHA256: 5fce52353b52eccdf2d61760255d5144a6ff9a2d85ef3234ef634d4220375ba8
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios12.0
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+
+Package: com.rob311.volskip11
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.rob311.volskip11.deb
+Size: 12536
+MD5sum: f576da4b02bdc379a6a60740ff88fca5
+SHA1: c62a222a90208daea812d3b8af9dbcb377406330
+SHA256: 0a3e40241d6dae43e57b3bb245e9459cd4053cb9cef428cd554d2d7327698dcc
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons. Non-X devices have extra functions. Home + Volume buttons override Volskip11. Lock + Volume Up = Max Volume, Lock + Volume Down = Min Volume (Ringer)/ Mute (Media). Works with All 11.x.x - 15.x.x
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rpgfarm.a-font
+Version: 1.10
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2444
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpgfarm.a-font.deb
+Size: 494200
+MD5sum: be14f61c8dcaefb4c0420312382f018f
+SHA1: e308b28fe884770366859bbdd38f60c14ee93ddf
+SHA256: a18e5386ba8c0dc5385e9f5fa00eca38a7d184227fad8e0ed25ad43809ff7fa4
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Font
+
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm64e
+Maintainer: Paisseon
+Installed-Size: 368
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: ./debs/emt.paisseon.erika.deb
+Size: 91528
+MD5sum: 39ae86320d01edff824e57bafea70382
+SHA1: 4c2669731e282f81418dd0ecb34712e0d9e40eb8
+SHA256: 3abe2dc7ef15d8512f69b8862aaa2f2e7eecd68b999d2b211cf60359f82c04d7
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json

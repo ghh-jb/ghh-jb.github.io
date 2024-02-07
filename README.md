@@ -1,7 +1,7 @@
 # Ghh's Sileo Repository
 
 Useful links:
-
+- rebellious.adalo.com 
 - Sileo start page: https://ghh-jb.github.io
 - Sileo rootless repo: https://ghh-jb.github.io/repo
 - Sileo roothide repo: https://ghh-jb.github.io/rooothide

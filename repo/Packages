@@ -2318,3 +2318,233 @@ Description: evented I/O for V8 javascript - runtime executable
  .
  System, Events, Standard I/O, Modules, Timers, Child Processes, POSIX,
  HTTP, Multipart Parsing, TCP, DNS, Assert, Path, URL, Query Strings.
+
+Package: com.boo.libscribble
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Boo
+Installed-Size: 168
+Filename: ./debs/com.boo.libscribble_1.0.0_iphoneos-arm64.deb
+Size: 10200
+MD5sum: dab2292c12a530ff2e03db94d02b0bca
+SHA1: b855fe69e1c23e0be7963e70c574da5f55c50eb2
+SHA256: 0a61061cd88b005a518b57349f0aaaaaf557723fe0881290281c14ef4e358486
+Section: System
+Description: Scribble gesture library
+Tag: role::developer
+Author: Boo
+Name: libScribble
+
+Package: com.boo.scribble
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Boo
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.2), com.boo.libscribble, com.spark.libsparkcolourpicker, xyz.cypwn.xinam1ne
+Filename: ./debs/com.boo.scribble_2.1_iphoneos-arm64.deb
+Size: 42168
+MD5sum: fd24d3ec139aec0e3b1769790ea2dac1
+SHA1: ed5c8d84437722d585f7274c342dba7a2b2b3ccb
+SHA256: 8669ba9139796b7da4d94666461795226729c7d2c789088337f95b3ee890ce2c
+Section: Tweaks
+Description: Unlock your device with a scribble!
+Author: Boo
+Name: Scribble
+
+Package: com.chr1s.gears
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Chr1s
+Installed-Size: 1760
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), xyz.cypwn.xinam1ne
+Conflicts: com.burritoz.ash
+Filename: ./debs/com.chr1s.gears_1.1.3_iphoneos-arm64.deb
+Size: 1246848
+MD5sum: 9482fba759f5a2bdfdd28af1e068c9c8
+SHA1: d1182ed57d1303006fddd4424f52c8b231bb3dc5
+SHA256: 095e2299fa9403b603a2da52c9c42f2167472bab92e6116bf2f9a601e5c480d4
+Section: Tweaks
+Description: Animate Settings icon!
+Author: Chr1s
+Name: Gears
+
+Package: com.ghh.widgetpack
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Ghh
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: ./debs/com.ghh.widgetpack_1.4_iphoneos-arm64.deb
+Size: 7148392
+MD5sum: a65456a2bc3ce1d820eeb96d1f2fdf0e
+SHA1: af32f66db15d73b65a237468dd501348e9732eea
+SHA256: 8b8c195f611ca5acfdaaa6db0dfa372e0f24fbfd4e918823dad4828e47155d19
+Section: Widgets
+Description: Widgets for XenHTML
+Author: Ghh
+Name: WidgetPack
+
+Package: com.junesiphone.xeninfo
+Version: 2.2.9
+Architecture: iphoneos-arm64
+Maintainer: Junes <junesgraphics@gmail.com>
+Installed-Size: 1072
+Depends: mobilesubstrate, firmware (>= 9.0), xyz.cypwn.xinam1ne
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Filename: ./debs/com.junesiphone.xeninfo_2.2.9_iphoneos-arm64.deb
+Size: 160272
+MD5sum: eb206937bb65e0d295f1507424ae7d37
+SHA1: f13355ccabe8205adca2115094e35ec3a0767f2f
+SHA256: bcf3507c47d643ce04b13b7c7856ed91fa6fedca6055f331fac08d8debe69c80
+Section: Addons (Tweaks)
+Description: Music, Weather, and battery info for XenHTML
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/xeninfo
+Name: XenInfo
+
+Package: com.matchstic.xenhtml
+Version: 1.1.5~release
+Architecture: iphoneos-arm64
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, xyz.cypwn.xinam1ne
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Filename: ./debs/com.matchstic.xenhtml_1.1.5~release_iphoneos-arm64.deb
+Size: 1878392
+MD5sum: 77dbbc62aab6f3036e037cb6e60cb386
+SHA1: 5c4560d86d0f554fd143b17560141ec307e65a6e
+SHA256: 442b970c7d9f721de69347e04cff0e4e8006ff055cdf8d3e046fe586ac0ae441
+Section: System
+Priority: optional
+Description: Unified HTML rendering; lockscreen and homescreen
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML
+Sileodepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+
+Package: com.pixelomer.colorfulgoose
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: pixelomer
+Installed-Size: 200
+Depends: com.pixelomer.mobilegoose (>=1.2), xyz.cypwn.xinam1ne
+Filename: ./debs/com.pixelomer.colorfulgoose_1.2_iphoneos-arm64.deb
+Size: 5964
+MD5sum: 383ef979cf03cbc97860321b164e29d3
+SHA1: 874ae0610cd0bf96a2c266b396e2467d6c3b1ae4
+SHA256: 32ebb1225ea14db0c1315f241acfac8d66174e03b41ba1d972d2f9ea28377bc5
+Section: Tweaks
+Priority: optional
+Description: Add color to your goose
+Author: pixelomer
+Name: ColorfulGoose
+
+Package: com.pixelomer.joethegoose
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: pixelomer
+Installed-Size: 204
+Depends: com.pixelomer.mobilegoose (>=1.2), xyz.cypwn.xinam1ne
+Filename: ./debs/com.pixelomer.joethegoose_1.0.1_iphoneos-arm64.deb
+Size: 7168
+MD5sum: eb275fab78fb25a033560c0a39552c4e
+SHA1: 94438295a97e94277ab38bc5479afcade82216a3
+SHA256: 21db52ee50d1e11d6765e539239ebca2bfd48e1ce05645fbc7facb752f0e55cc
+Section: Tweaks
+Priority: optional
+Description: A name tag for your goose
+Author: pixelomer
+Name: Goose Name Tag
+
+Package: com.pixelomer.mobilegoose
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: pixelomer
+Installed-Size: 1096
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Filename: ./debs/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
+Size: 631868
+MD5sum: 7f08835e784887ece86d0f5480d2653c
+SHA1: 0f86b72b8a97813a652eb69b3c0ac177fcda2ecd
+SHA256: 35400411d14c2ebf7876c44e4189229cb806388db76bc3443a557e6aeb53ce9f
+Section: Tweaks
+Description: An annoying goose for your iDevice
+Author: pixelomer
+Name: MobileGoose
+
+Package: com.ryannair05.audiosnapshotserver
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 168
+Replaces: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Provides: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Filename: ./debs/com.ryannair05.audiosnapshotserver_2.1.2_iphoneos-arm64.deb
+Size: 5224
+MD5sum: 851d35ebee54d5af61763912eefb165e
+SHA1: 54f843343c2dd97a699f8eca947d83e5b22ecbd4
+SHA256: 6406c6aa37121766c1c8426575acd768490461f1039df11daa6845655d3af6d2
+Section: Development
+Description: A modified iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Tag: role::developer, compatible_min::ios12.0
+Author: Ryan Nair and Nepeta <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/audiosnapshotserver
+Icon: https://chariz.com/cdn/icon/audiosnapshotserver/icon@3x.png
+Name: AudioSnapshotServer
+
+Package: com.ryannair05.libmitsuhaforever
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 920
+Depends: mobilesubstrate, com.ryannair05.audiosnapshotserver, xyz.cypwn.xinam1ne
+Replaces: me.nepeta.libmitsuha, me.conorthedev.libmitsuhaforever
+Filename: ./debs/com.ryannair05.libmitsuhaforever_1.4.2_iphoneos-arm64.deb
+Size: 125816
+MD5sum: b9dfc8bbc6c220e6ea84bf3e3b6d7b08
+SHA1: 978df9c7a17e9c35fe9e7a4af6b9a4467bd8256c
+SHA256: f800ab71e71bddc6e8a407f2c690a8a2c2ca6db8249ffd5716f54082d4f90588
+Section: Development
+Description: An advanced audio visualizer library for Mitsuha Forever
+Tag: role::developer, compatible_min::ios12.0
+Author: Ryan Nair, ConorTheDev, Nepeta <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/buy/libmitsuhaforever
+Icon: https://chariz.com/cdn/icon/libmitsuhaforever/icon@3x.png
+Name: libmitsuhaforever
+
+Package: com.ryannair05.mitsuhaforever
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 879
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), xyz.cypwn.xinam1ne
+Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
+Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
+Size: 89728
+MD5sum: 013b67c1eb6e8d7f6cdaeb044ecdc665
+SHA1: cc4239913d93eacff488253d4e20c20377cbaa7b
+SHA256: e9005cc481c8122a4117ed5d8eb41fca75f7eb52b05dc3eb5c9636939f9b2c14
+Section: Tweaks
+Description: Universal audio visualizer for iOS
+Tag: compatible_min::ios12.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/mitsuha-forever
+Icon: https://img.chariz.cloud/icon/mitsuha-forever/icon@3x.png
+Name: Mitsuha Forever
+
+Package: ru.rejail.dleasy
+Version: 2.14.3
+Architecture: iphoneos-arm64
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15520
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.3_iphoneos-arm64.deb
+Size: 5528816
+MD5sum: 4b273407f0fac0b4e094ca95dcf488a2
+SHA1: 1593fafe26a7f38a56bec207f39a013ea11a050c
+SHA256: fe6402b2ca6a923ad32a88a3500ab2850cd751147adc73bebd515ed01665a0d1
+Section: Tweaks
+Description: Download/Share images & videos from social apps easily!
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+Name: DLEasy

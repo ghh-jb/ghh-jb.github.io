@@ -13,22 +13,22 @@ Useful links:
 - I am 14 years old student from Moscow
 - Starter in development for ios platform
 - Used jailbreaks:
-    [*]legacy_ios_kit(best toolbox for ios 7)
-    [*]Pangu7
-    [*]EtaS0n
-    [*]h3lix
-    [*]Electra
-    [*]Unc0ver
-    [*]Chimera
-    [*]Odyssey
-    [*]Checkra1n
-    [*]Taurine
-    [*]Fugu15
-    [*]XinaA15
-    [*]Dopamine
-    [*]Palera1n
-    [*]meowbreak
-    [*]nekoJB(strange)
+    [#]legacy_ios_kit(best toolbox for ios 7)
+    [#]Pangu7
+    [#]EtaS0n
+    [#]h3lix
+    [#]Electra
+    [#]Unc0ver
+    [#]Chimera
+    [#]Odyssey
+    [#]Checkra1n
+    [#]Taurine
+    [#]Fugu15
+    [#]XinaA15
+    [#]Dopamine
+    [#]Palera1n
+    [#]meowbreak
+    []nekoJB(strange)
     [*]bootstrap(awful)
 - list of my favourite tweaks
     #XenHTML

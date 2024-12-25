@@ -10,7 +10,6 @@ Useful links:
 
 #Some about me
 
-- I am 14 years old student from Moscow
 - Starter in development for ios platform
 - Used jailbreaks:
     [#]legacy_ios_kit(best toolbox for ios 7)
